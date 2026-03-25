@@ -90,16 +90,6 @@
     "affiliate_url": "https://www.amazon.com.br/dp/8584440739?tag=placeholder-20&linkCode=as2&camp=1789&creative=9325"
   },
   {
-    "asin": "B08Y38DJ72",
-    "title": "Coleção Especial Sherlock Holmes - Box com 6 livros",
-    "author": "",
-    "price": "R$ 69,35",
-    "original_price": "R$ 149,90",
-    "discount_percent": "53%",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08Y38DJ72.jpg",
-    "affiliate_url": "https://www.amazon.com.br/dp/B08Y38DJ72?tag=placeholder-20&linkCode=as2&camp=1789&creative=9325"
-  },
-  {
     "asin": "6555521511",
     "title": "Lucíola",
     "author": "",
@@ -148,6 +138,16 @@
     "discount_percent": "52%",
     "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956504.jpg",
     "affiliate_url": "https://www.amazon.com.br/dp/6584956504?tag=placeholder-20&linkCode=as2&camp=1789&creative=9325"
+  },
+  {
+    "asin": "B08Y38DJ72",
+    "title": "Coleção Especial Sherlock Holmes - Box com 6 livros",
+    "author": "",
+    "price": "R$ 73,00",
+    "original_price": "R$ 149,90",
+    "discount_percent": "51%",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08Y38DJ72.jpg",
+    "affiliate_url": "https://www.amazon.com.br/dp/B08Y38DJ72?tag=placeholder-20&linkCode=as2&camp=1789&creative=9325"
   },
   {
     "asin": "6584956253",
@@ -483,7 +483,7 @@
     "asin": "8521001061",
     "title": "Machado de assis - obra completa",
     "author": "",
-    "price": "R$ 369,16",
+    "price": "R$ 370,72",
     "original_price": "R$ 599,00",
     "discount_percent": "38%",
     "image_url": "https://images-na.ssl-images-amazon.com/images/P/8521001061.jpg",
