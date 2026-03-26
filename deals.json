@@ -1006,5 +1006,53 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08L85B81V?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-03-26T05:53:17.695914+00:00"
+  },
+  {
+    "asin": "6555524405",
+    "title": "Jane Eyre",
+    "print_price": "R$ 29,39",
+    "print_original_price": "R$ 69,90",
+    "print_discount_percent": "57%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6555524405?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6555524405.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-03-26T15:59:32.307169+00:00"
+  },
+  {
+    "asin": "B0B5FM949N",
+    "title": "O obstáculo é o caminho: A arte de transformar provações em ...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0B5FM949N.jpg",
+    "ebook_asin": "B0B5FM949N",
+    "ebook_price": "R$ 23,90",
+    "ebook_original_price": "R$ 44,90",
+    "ebook_discount_percent": "46%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0B5FM949N?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-03-26T15:59:32.307254+00:00"
+  },
+  {
+    "asin": "1680436309",
+    "title": "A fantástica história de Deus para você",
+    "print_price": "R$ 16,49",
+    "print_original_price": "R$ 29,90",
+    "print_discount_percent": "44%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/1680436309?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1680436309.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-03-26T15:59:32.307355+00:00"
   }
 ]
