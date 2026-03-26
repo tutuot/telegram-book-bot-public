@@ -990,5 +990,21 @@
     "ebook_affiliate_url": null,
     "posted": false,
     "scraped_at": "2026-03-25T20:33:31.150082+00:00"
+  },
+  {
+    "asin": "B08L85B81V",
+    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a ...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08L85B81V.jpg",
+    "ebook_asin": "B08L85B81V",
+    "ebook_price": "R$ 14,36",
+    "ebook_original_price": "R$ 31,90",
+    "ebook_discount_percent": "54%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08L85B81V?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-03-26T05:53:17.695914+00:00"
   }
 ]
