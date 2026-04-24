@@ -1230,5 +1230,37 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DSCKL92R?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-04-24T01:25:37.229290+00:00"
+  },
+  {
+    "asin": "B00A3D0DZG",
+    "title": "Inteligência emocional: A teoria revolucionária que redefine...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00A3D0DZG.jpg",
+    "ebook_asin": "B00A3D0DZG",
+    "ebook_price": "R$ 21,90",
+    "ebook_original_price": "R$ 79,90",
+    "ebook_discount_percent": "72%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00A3D0DZG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-04-24T12:56:45.438396+00:00"
+  },
+  {
+    "asin": "6526113427",
+    "title": "Perigoso! Este livro contém coelhos!",
+    "print_price": "R$ 14,63",
+    "print_original_price": "R$ 39,90",
+    "print_discount_percent": "63%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6526113427?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6526113427.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-04-24T12:56:45.438470+00:00"
   }
 ]
