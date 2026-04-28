@@ -1,181 +1,5 @@
 [
   {
-    "asin": "B0FH331QF2",
-    "title": "Quando o verão me trouxe flores (Aventuras de Mabel Livro 2)",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0FH331QF2.jpg",
-    "ebook_asin": "B0FH331QF2",
-    "ebook_price": "R$ 4,90",
-    "ebook_original_price": "R$ 89,90",
-    "ebook_discount_percent": "94%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0FH331QF2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229062+00:00"
-  },
-  {
-    "asin": "B0CZY1PQM5",
-    "title": "Igrejas que calam mulheres",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0CZY1PQM5.jpg",
-    "ebook_asin": "B0CZY1PQM5",
-    "ebook_price": "R$ 4,90",
-    "ebook_original_price": "R$ 74,90",
-    "ebook_discount_percent": "93%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CZY1PQM5?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229124+00:00"
-  },
-  {
-    "asin": "B0743MBY15",
-    "title": "O iluminado (Coleção Biblioteca Stephen King)",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0743MBY15.jpg",
-    "ebook_asin": "B0743MBY15",
-    "ebook_price": "R$ 24,90",
-    "ebook_original_price": "R$ 114,90",
-    "ebook_discount_percent": "78%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0743MBY15?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229150+00:00"
-  },
-  {
-    "asin": "B0DGN4ZXMC",
-    "title": "De onde eles vêm",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0DGN4ZXMC.jpg",
-    "ebook_asin": "B0DGN4ZXMC",
-    "ebook_price": "R$ 19,90",
-    "ebook_original_price": "R$ 79,90",
-    "ebook_discount_percent": "75%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DGN4ZXMC?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229174+00:00"
-  },
-  {
-    "asin": "B00IAXYE10",
-    "title": "A cabeça do santo",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00IAXYE10.jpg",
-    "ebook_asin": "B00IAXYE10",
-    "ebook_price": "R$ 19,90",
-    "ebook_original_price": "R$ 74,90",
-    "ebook_discount_percent": "73%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00IAXYE10?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229194+00:00"
-  },
-  {
-    "asin": "B00C0WHY64",
-    "title": "Inteligência positiva: Por que só 20% das equipes e dos indi...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00C0WHY64.jpg",
-    "ebook_asin": "B00C0WHY64",
-    "ebook_price": "R$ 18,90",
-    "ebook_original_price": "R$ 69,90",
-    "ebook_discount_percent": "72%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00C0WHY64?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229210+00:00"
-  },
-  {
-    "asin": "B0CQ6WDZ3G",
-    "title": "O Menino Maluquinho (Coleção Menino Maluquinho)",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0CQ6WDZ3G.jpg",
-    "ebook_asin": "B0CQ6WDZ3G",
-    "ebook_price": "R$ 17,55",
-    "ebook_original_price": "R$ 56,00",
-    "ebook_discount_percent": "68%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CQ6WDZ3G?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229227+00:00"
-  },
-  {
-    "asin": "B06XWHV1JG",
-    "title": "Bartleby, o escrivão",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B06XWHV1JG.jpg",
-    "ebook_asin": "B06XWHV1JG",
-    "ebook_price": "R$ 10,46",
-    "ebook_original_price": "R$ 29,90",
-    "ebook_discount_percent": "65%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B06XWHV1JG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229246+00:00"
-  },
-  {
-    "asin": "B0CZ43YW6Z",
-    "title": "O caderno de maldades do Scorpio",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0CZ43YW6Z.jpg",
-    "ebook_asin": "B0CZ43YW6Z",
-    "ebook_price": "R$ 19,95",
-    "ebook_original_price": "R$ 54,90",
-    "ebook_discount_percent": "63%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CZ43YW6Z?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229261+00:00"
-  },
-  {
-    "asin": "B07NQMWRL1",
-    "title": "Inteligência emocional: As melhores práticas para você desen...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07NQMWRL1.jpg",
-    "ebook_asin": "B07NQMWRL1",
-    "ebook_price": "R$ 14,90",
-    "ebook_original_price": "R$ 39,99",
-    "ebook_discount_percent": "62%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07NQMWRL1?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229275+00:00"
-  },
-  {
-    "asin": "B0DSCKL92R",
-    "title": "O amor não é óbvio (Duologia Laranja-forte Livro 1)",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0DSCKL92R.jpg",
-    "ebook_asin": "B0DSCKL92R",
-    "ebook_price": "R$ 15,96",
-    "ebook_original_price": "R$ 39,90",
-    "ebook_discount_percent": "60%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DSCKL92R?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-24T01:25:37.229290+00:00"
-  },
-  {
     "asin": "B00A3D0DZG",
     "title": "Inteligência emocional: A teoria revolucionária que redefine...",
     "print_price": null,
@@ -1148,7 +972,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270065+00:00"
   },
   {
@@ -1164,7 +988,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270134+00:00"
   },
   {
@@ -1180,7 +1004,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270181+00:00"
   },
   {
@@ -1196,7 +1020,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270228+00:00"
   },
   {
@@ -1212,7 +1036,7 @@
     "ebook_original_price": "R$ 79,90",
     "ebook_discount_percent": "75%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09CHH1BMX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270264+00:00"
   },
   {
@@ -1228,7 +1052,7 @@
     "ebook_original_price": "R$ 72,90",
     "ebook_discount_percent": "72%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B01E4AN8AA?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270298+00:00"
   },
   {
@@ -1244,7 +1068,7 @@
     "ebook_original_price": "R$ 69,90",
     "ebook_discount_percent": "71%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B009WWDJXC?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270326+00:00"
   },
   {
@@ -1260,7 +1084,7 @@
     "ebook_original_price": "R$ 69,90",
     "ebook_discount_percent": "71%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B01KXMA43M?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270362+00:00"
   },
   {
@@ -1276,7 +1100,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270396+00:00"
   },
   {
@@ -1292,7 +1116,7 @@
     "ebook_original_price": "R$ 37,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B084Q6YFSS?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T01:28:58.270426+00:00"
   },
   {
@@ -1308,7 +1132,7 @@
     "ebook_original_price": "R$ 94,90",
     "ebook_discount_percent": "76%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08KYCD69S?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018024+00:00"
   },
   {
@@ -1324,7 +1148,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018081+00:00"
   },
   {
@@ -1340,7 +1164,7 @@
     "ebook_original_price": "R$ 72,90",
     "ebook_discount_percent": "72%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00GILQQC6?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018116+00:00"
   },
   {
@@ -1356,7 +1180,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018146+00:00"
   },
   {
@@ -1372,7 +1196,7 @@
     "ebook_original_price": "R$ 59,90",
     "ebook_discount_percent": "68%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CFG63589?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018437+00:00"
   },
   {
@@ -1388,7 +1212,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018477+00:00"
   },
   {
@@ -1404,7 +1228,7 @@
     "ebook_original_price": "R$ 87,90",
     "ebook_discount_percent": "65%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B008P04E8Q?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018511+00:00"
   },
   {
@@ -1420,7 +1244,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018550+00:00"
   },
   {
@@ -1436,7 +1260,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018592+00:00"
   },
   {
@@ -1452,7 +1276,55 @@
     "ebook_original_price": "R$ 7,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07SCV9BCP?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-27T13:16:05.018633+00:00"
+  },
+  {
+    "asin": "B0CG7FVKLB",
+    "title": "Uma luz na chama (Vol. 2 Carne e Fogo)",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0CG7FVKLB.jpg",
+    "ebook_asin": "B0CG7FVKLB",
+    "ebook_price": "R$ 9,90",
+    "ebook_original_price": "R$ 39,90",
+    "ebook_discount_percent": "75%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CG7FVKLB?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-04-28T01:48:29.897287+00:00"
+  },
+  {
+    "asin": "B009WW4Y9K",
+    "title": "Ciranda de pedra",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B009WW4Y9K.jpg",
+    "ebook_asin": "B009WW4Y9K",
+    "ebook_price": "R$ 19,90",
+    "ebook_original_price": "R$ 82,90",
+    "ebook_discount_percent": "75%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B009WW4Y9K?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-04-28T01:48:29.897367+00:00"
+  },
+  {
+    "asin": "B0741MYDBX",
+    "title": "Relatos de um gato viajante",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0741MYDBX.jpg",
+    "ebook_asin": "B0741MYDBX",
+    "ebook_price": "R$ 19,90",
+    "ebook_original_price": "R$ 79,90",
+    "ebook_discount_percent": "75%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0741MYDBX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-04-28T01:48:29.897400+00:00"
   }
 ]
