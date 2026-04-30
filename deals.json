@@ -780,7 +780,7 @@
     "ebook_original_price": "R$ 39,90",
     "ebook_discount_percent": "75%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CG7FVKLB?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-28T01:48:29.897287+00:00"
   },
   {
@@ -796,7 +796,7 @@
     "ebook_original_price": "R$ 82,90",
     "ebook_discount_percent": "75%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B009WW4Y9K?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-28T01:48:29.897367+00:00"
   },
   {
@@ -812,7 +812,7 @@
     "ebook_original_price": "R$ 79,90",
     "ebook_discount_percent": "75%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0741MYDBX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-28T01:48:29.897400+00:00"
   },
   {
@@ -828,7 +828,7 @@
     "ebook_original_price": "R$ 74,90",
     "ebook_discount_percent": "73%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00IAXYE10?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-28T19:44:15.018429+00:00"
   },
   {
@@ -844,7 +844,7 @@
     "ebook_original_price": "R$ 99,00",
     "ebook_discount_percent": "69%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B088C4QZV2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-28T19:44:15.018495+00:00"
   },
   {
@@ -860,7 +860,7 @@
     "ebook_original_price": "R$ 5,99",
     "ebook_discount_percent": "61%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09VPNNB8R?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-28T19:44:15.018518+00:00"
   },
   {
@@ -876,7 +876,7 @@
     "ebook_original_price": "R$ 10,00",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BFRFHBGG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-28T19:44:15.018538+00:00"
   },
   {
@@ -892,7 +892,7 @@
     "ebook_original_price": "R$ 79,90",
     "ebook_discount_percent": "72%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00A3D0DZG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-29T01:52:04.438225+00:00"
   },
   {
@@ -908,7 +908,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-29T13:20:13.684359+00:00"
   },
   {
@@ -924,7 +924,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-29T13:20:13.684458+00:00"
   },
   {
@@ -940,7 +940,7 @@
     "ebook_original_price": "R$ 59,90",
     "ebook_discount_percent": "66%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07XTNKQKF?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-29T13:20:13.684515+00:00"
   },
   {
@@ -956,7 +956,39 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-04-29T13:20:13.684561+00:00"
+  },
+  {
+    "asin": "B0B15L2RMF",
+    "title": "A revolução da glicose: Equilibre os níveis de açúcar no san...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0B15L2RMF.jpg",
+    "ebook_asin": "B0B15L2RMF",
+    "ebook_price": "R$ 21,90",
+    "ebook_original_price": "R$ 89,90",
+    "ebook_discount_percent": "75%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0B15L2RMF?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-04-30T01:50:29.863264+00:00"
+  },
+  {
+    "asin": "B083V5G644",
+    "title": "O livro que você gostaria que seus pais tivessem lido: (e se...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B083V5G644.jpg",
+    "ebook_asin": "B083V5G644",
+    "ebook_price": "R$ 19,90",
+    "ebook_original_price": "R$ 74,90",
+    "ebook_discount_percent": "73%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B083V5G644?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-04-30T01:50:29.863362+00:00"
   }
 ]
