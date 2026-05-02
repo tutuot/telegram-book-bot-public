@@ -460,7 +460,7 @@
     "ebook_original_price": "R$ 111,99",
     "ebook_discount_percent": "94%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07P19JPP7?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-01T12:53:21.655479+00:00"
   },
   {
@@ -476,7 +476,7 @@
     "ebook_original_price": "R$ 20,00",
     "ebook_discount_percent": "80%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CPWGS6C5?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-01T12:53:21.655534+00:00"
   },
   {
@@ -492,7 +492,7 @@
     "ebook_original_price": "R$ 59,90",
     "ebook_discount_percent": "73%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07C6ZBCR7?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-01T12:53:21.655564+00:00"
   },
   {
@@ -508,7 +508,7 @@
     "ebook_original_price": "R$ 49,90",
     "ebook_discount_percent": "71%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B071HPWX1F?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-01T12:53:21.655588+00:00"
   },
   {
@@ -524,7 +524,7 @@
     "ebook_original_price": "R$ 17,60",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DY5ML672?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-01T12:53:21.655619+00:00"
   },
   {
@@ -540,7 +540,7 @@
     "ebook_original_price": "R$ 38,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09T2GYJ6H?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-01T12:53:21.655644+00:00"
   },
   {
@@ -556,7 +556,7 @@
     "ebook_original_price": "R$ 39,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CM9SDKDD?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-01T12:53:21.655666+00:00"
   },
   {
@@ -572,7 +572,7 @@
     "ebook_original_price": "R$ 49,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08HR859SP?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-01T12:53:21.655688+00:00"
   }
 ]
