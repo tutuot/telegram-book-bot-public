@@ -1,69 +1,5 @@
 [
   {
-    "asin": "B00IAXYE10",
-    "title": "A cabeça do santo",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00IAXYE10.jpg",
-    "ebook_asin": "B00IAXYE10",
-    "ebook_price": "R$ 19,90",
-    "ebook_original_price": "R$ 74,90",
-    "ebook_discount_percent": "73%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00IAXYE10?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-28T19:44:15.018429+00:00"
-  },
-  {
-    "asin": "B088C4QZV2",
-    "title": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatíve...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B088C4QZV2.jpg",
-    "ebook_asin": "B088C4QZV2",
-    "ebook_price": "R$ 29,99",
-    "ebook_original_price": "R$ 99,00",
-    "ebook_discount_percent": "69%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B088C4QZV2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-28T19:44:15.018495+00:00"
-  },
-  {
-    "asin": "B09VPNNB8R",
-    "title": "Um match no bilionário grego: Camila Alkimim e Aretha V. Gue...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B09VPNNB8R.jpg",
-    "ebook_asin": "B09VPNNB8R",
-    "ebook_price": "R$ 2,29",
-    "ebook_original_price": "R$ 5,99",
-    "ebook_discount_percent": "61%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09VPNNB8R?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-28T19:44:15.018518+00:00"
-  },
-  {
-    "asin": "B0BFRFHBGG",
-    "title": "100 Dias com o CEO",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0BFRFHBGG.jpg",
-    "ebook_asin": "B0BFRFHBGG",
-    "ebook_price": "R$ 3,99",
-    "ebook_original_price": "R$ 10,00",
-    "ebook_discount_percent": "60%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BFRFHBGG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-04-28T19:44:15.018538+00:00"
-  },
-  {
     "asin": "B00A3D0DZG",
     "title": "Inteligência emocional: A teoria revolucionária que redefine...",
     "print_price": null,
@@ -380,7 +316,7 @@
     "ebook_original_price": "R$ 25,79",
     "ebook_discount_percent": "70%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B092R93YZL?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-02T12:43:51.708070+00:00"
   },
   {
@@ -396,7 +332,7 @@
     "ebook_original_price": "R$ 31,99",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B096YL5P2T?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-02T12:43:51.708125+00:00"
   },
   {
@@ -412,7 +348,7 @@
     "ebook_original_price": "R$ 37,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00EZ4AHOG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-02T12:43:51.708154+00:00"
   },
   {
@@ -428,7 +364,23 @@
     "ebook_original_price": "R$ 39,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CV4JJFTW?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-02T12:43:51.708175+00:00"
+  },
+  {
+    "asin": "B07H4Z21F9",
+    "title": "O mito da beleza: Como as imagens de beleza são usadas contr...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07H4Z21F9.jpg",
+    "ebook_asin": "B07H4Z21F9",
+    "ebook_price": "R$ 21,16",
+    "ebook_original_price": "R$ 52,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07H4Z21F9?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-05-03T01:46:37.251712+00:00"
   }
 ]
