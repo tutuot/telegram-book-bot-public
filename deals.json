@@ -588,7 +588,7 @@
     "ebook_original_price": "R$ 64,90",
     "ebook_discount_percent": "63%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CT11KH3C?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-05T01:47:14.122667+00:00"
   },
   {
@@ -604,7 +604,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-05T01:47:14.122735+00:00"
   },
   {
@@ -620,7 +620,23 @@
     "ebook_original_price": "R$ 99,90",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BL579H1Z?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-05-05T13:07:51.440371+00:00"
+  },
+  {
+    "asin": "B08HR859SP",
+    "title": "Os quatro compromissos: O livro da Filosofia Tolteca- Um gui...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08HR859SP.jpg",
+    "ebook_asin": "B08HR859SP",
+    "ebook_price": "R$ 19,90",
+    "ebook_original_price": "R$ 49,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08HR859SP?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-05-06T01:31:59.866921+00:00"
   }
 ]
