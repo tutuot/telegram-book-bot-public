@@ -2510,5 +2510,21 @@
     "ebook_affiliate_url": null,
     "posted": false,
     "scraped_at": "2026-05-13T01:57:35.783060+00:00"
+  },
+  {
+    "asin": "6559813576",
+    "title": "Trono de vidro: Rainha das Sombras (Vol. 5 - Edição especial...",
+    "print_price": "R$ 75,94",
+    "print_original_price": "R$ 189,90",
+    "print_discount_percent": "60%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6559813576?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6559813576.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-05-13T14:04:22.882233+00:00"
   }
 ]
