@@ -1294,5 +1294,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CQXTNHKL?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-05-28T15:23:59.200780+00:00"
+  },
+  {
+    "asin": "6560951707",
+    "title": "Cute & Comfy Coloring Book for Adults - Bold Easy - Livro de...",
+    "print_price": "R$ 8,46",
+    "print_original_price": "R$ 29,90",
+    "print_discount_percent": "71%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6560951707?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6560951707.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-05-29T02:01:39.268175+00:00"
   }
 ]
