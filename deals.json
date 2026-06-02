@@ -1,21 +1,5 @@
 [
   {
-    "asin": "6560951707",
-    "title": "Cute & Comfy Coloring Book for Adults - Bold Easy - Livro de...",
-    "print_price": "R$ 8,46",
-    "print_original_price": "R$ 29,90",
-    "print_discount_percent": "71%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6560951707?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6560951707.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-05-29T02:01:39.268175+00:00"
-  },
-  {
     "asin": "B0BFSVRCNH",
     "title": "Fábulas cabulosas e outras histórias subversivas",
     "print_price": null,
@@ -766,5 +750,53 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07SBS2F2D?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-06-01T17:13:34.963309+00:00"
+  },
+  {
+    "asin": "B07K8WF98V",
+    "title": "Contigo, Garrafa Térmica Inox Parede Dupla Matterhorn, 591ML",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07K8WF98V.jpg",
+    "ebook_asin": "B07K8WF98V",
+    "ebook_price": "R$ 52,41",
+    "ebook_original_price": "R$ 149,90",
+    "ebook_discount_percent": "65%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07K8WF98V?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-06-02T02:31:33.971639+00:00"
+  },
+  {
+    "asin": "B0BLT2MQY2",
+    "title": "Ventisol Ventilador de teto wind br 3p inj branco c/r invert...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0BLT2MQY2.jpg",
+    "ebook_asin": "B0BLT2MQY2",
+    "ebook_price": "R$ 178,48",
+    "ebook_original_price": "R$ 499,00",
+    "ebook_discount_percent": "64%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BLT2MQY2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-06-02T02:31:33.971729+00:00"
+  },
+  {
+    "asin": "6584956229",
+    "title": "Orgulho e Preconceito - Edição de Luxo Almofadada",
+    "print_price": "R$ 33,07",
+    "print_original_price": "R$ 89,90",
+    "print_discount_percent": "63%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956229?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956229.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-06-02T02:31:33.971779+00:00"
   }
 ]
