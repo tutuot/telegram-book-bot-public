@@ -1,53 +1,5 @@
 [
   {
-    "asin": "6584956350",
-    "title": "A Origem das Espécies - Edição de Luxo Almofadada",
-    "print_price": "R$ 45,11",
-    "print_original_price": "R$ 129,90",
-    "print_discount_percent": "65%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956350?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956350.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-05-31T02:10:13.098011+00:00"
-  },
-  {
-    "asin": "6556172618",
-    "title": "365 Desenhos para colorir (BR): Outros",
-    "print_price": "R$ 9,00",
-    "print_original_price": "R$ 24,90",
-    "print_discount_percent": "63%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6556172618?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6556172618.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-05-31T02:10:13.098113+00:00"
-  },
-  {
-    "asin": "6558888629",
-    "title": "O Maravilhoso Mundo da Natureza",
-    "print_price": "R$ 15,98",
-    "print_original_price": "R$ 39,99",
-    "print_discount_percent": "60%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6558888629?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6558888629.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-05-31T02:10:13.098206+00:00"
-  },
-  {
     "asin": "B0GMTWS96H",
     "title": "Shirley",
     "print_price": null,
@@ -494,5 +446,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00BMC61ZS?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-06-03T16:14:35.809059+00:00"
+  },
+  {
+    "asin": "6555478667",
+    "title": "Coleção Minhas Primeiras 101 Palavras - Box com 3 Livrinhos",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6555478667.jpg",
+    "ebook_asin": "6555478667",
+    "ebook_price": "R$ 25,12",
+    "ebook_original_price": "R$ 89,70",
+    "ebook_discount_percent": "71%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/6555478667?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-06-04T02:34:07.691138+00:00"
   }
 ]
