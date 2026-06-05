@@ -446,5 +446,21 @@
     "ebook_affiliate_url": null,
     "posted": true,
     "scraped_at": "2026-06-04T14:33:48.939252+00:00"
+  },
+  {
+    "asin": "B071VCX893",
+    "title": "Gabriela Sabatini Eau de Toilette 60Ml",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B071VCX893.jpg",
+    "ebook_asin": "B071VCX893",
+    "ebook_price": "R$ 64,44",
+    "ebook_original_price": "R$ 169,00",
+    "ebook_discount_percent": "61%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B071VCX893?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-06-05T14:22:35.053354+00:00"
   }
 ]
