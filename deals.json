@@ -1,21 +1,5 @@
 [
   {
-    "asin": "6584956598",
-    "title": "O Livro dos 5 Anéis - Edição de Luxo Almofadada",
-    "print_price": "R$ 22,98",
-    "print_original_price": "R$ 59,90",
-    "print_discount_percent": "61%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956598?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956598.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-06-03T02:37:28.269814+00:00"
-  },
-  {
     "asin": "B00BMC61ZS",
     "title": "O impostor que vive em mim",
     "print_price": null,
@@ -222,5 +206,21 @@
     "ebook_affiliate_url": null,
     "posted": false,
     "scraped_at": "2026-06-07T02:15:18.681091+00:00"
+  },
+  {
+    "asin": "6588370989",
+    "title": "Deixe de ser pobre: Os segredos para você sair da pindaíba e...",
+    "print_price": "R$ 19,50",
+    "print_original_price": "R$ 59,90",
+    "print_discount_percent": "67%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6588370989?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6588370989.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-06-07T13:17:30.395242+00:00"
   }
 ]
