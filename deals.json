@@ -1,21 +1,5 @@
 [
   {
-    "asin": "B00BMC61ZS",
-    "title": "O impostor que vive em mim",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00BMC61ZS.jpg",
-    "ebook_asin": "B00BMC61ZS",
-    "ebook_price": "R$ 4,89",
-    "ebook_original_price": "R$ 64,90",
-    "ebook_discount_percent": "92%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00BMC61ZS?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-06-03T16:14:35.809059+00:00"
-  },
-  {
     "asin": "6555478667",
     "title": "Coleção Minhas Primeiras 101 Palavras - Box com 3 Livrinhos",
     "print_price": null,
@@ -92,7 +76,7 @@
     "ebook_original_price": "R$ 74,90",
     "ebook_discount_percent": "92%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00E9CD9L2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-07T02:15:18.680831+00:00"
   },
   {
@@ -108,7 +92,7 @@
     "ebook_original_price": "R$ 59,90",
     "ebook_discount_percent": "73%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B094C54N3S?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-07T02:15:18.680910+00:00"
   },
   {
@@ -124,7 +108,7 @@
     "ebook_original_price": "R$ 69,90",
     "ebook_discount_percent": "71%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CVSQ7H91?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-07T02:15:18.680947+00:00"
   },
   {
@@ -140,7 +124,7 @@
     "ebook_original_price": "R$ 89,90",
     "ebook_discount_percent": "68%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09TWP3ZY9?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-07T02:15:18.680977+00:00"
   },
   {
@@ -156,7 +140,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-07T02:15:18.681005+00:00"
   },
   {
@@ -172,7 +156,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-07T02:15:18.681034+00:00"
   },
   {
@@ -188,7 +172,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-07T02:15:18.681061+00:00"
   },
   {
@@ -204,7 +188,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-07T02:15:18.681091+00:00"
   },
   {
@@ -220,7 +204,39 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-07T13:17:30.395242+00:00"
+  },
+  {
+    "asin": "8578609514",
+    "title": "Introdução à interpretação bíblica",
+    "print_price": "R$ 51,16",
+    "print_original_price": "R$ 139,90",
+    "print_discount_percent": "63%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8578609514?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8578609514.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-06-08T02:31:49.991443+00:00"
+  },
+  {
+    "asin": "B0FG8BQDKG",
+    "title": "Samsung Galaxy Watch Ultra Smartwatch 47mm LTE- Titânio Azul",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0FG8BQDKG.jpg",
+    "ebook_asin": "B0FG8BQDKG",
+    "ebook_price": "R$ 1.999,00",
+    "ebook_original_price": "R$ 4.999,00",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0FG8BQDKG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-06-08T02:31:49.991518+00:00"
   }
 ]
