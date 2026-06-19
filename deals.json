@@ -3342,5 +3342,37 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B086R5PT24?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-06-19T12:00:12.683195+00:00"
+  },
+  {
+    "asin": "B00A647S2S",
+    "title": "Dossiê Raul Seixas",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00A647S2S.jpg",
+    "ebook_asin": "B00A647S2S",
+    "ebook_price": "R$ 4,88",
+    "ebook_original_price": "R$ 13,95",
+    "ebook_discount_percent": "65%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00A647S2S?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-06-19T14:39:01.389638+00:00"
+  },
+  {
+    "asin": "B09FR6SW8G",
+    "title": "Iguais perante a lei: Um guia prático para você garantir seu...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B09FR6SW8G.jpg",
+    "ebook_asin": "B09FR6SW8G",
+    "ebook_price": "R$ 13,96",
+    "ebook_original_price": "R$ 39,90",
+    "ebook_discount_percent": "65%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09FR6SW8G?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-06-19T14:39:01.389711+00:00"
   }
 ]
