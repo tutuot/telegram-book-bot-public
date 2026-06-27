@@ -1,117 +1,5 @@
 [
   {
-    "asin": "B00C6ACMH6",
-    "title": "Clara dos Anjos",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00C6ACMH6.jpg",
-    "ebook_asin": "B00C6ACMH6",
-    "ebook_price": "R$ 0,90",
-    "ebook_original_price": "R$ 4,99",
-    "ebook_discount_percent": "81%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00C6ACMH6?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-06-22T16:25:53.380918+00:00"
-  },
-  {
-    "asin": "B015WZM8V6",
-    "title": "Entendendo as doenças cardiovasculares",
-    "print_price": "R$ 21,28",
-    "print_original_price": "R$ 60,80",
-    "print_discount_percent": "65%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B015WZM8V6?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B015WZM8V6.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-06-22T16:25:53.380989+00:00"
-  },
-  {
-    "asin": "B0C675B2M4",
-    "title": "Ideias Criativas Artesanais Ed. 06 - Coleção Moda",
-    "print_price": "R$ 7,00",
-    "print_original_price": "R$ 20,00",
-    "print_discount_percent": "65%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B0C675B2M4?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0C675B2M4.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-06-22T16:25:53.381021+00:00"
-  },
-  {
-    "asin": "B0B729NM88",
-    "title": "Emagreça Com Saúde Ed.37 - Infusão, Decocção e Maceração",
-    "print_price": "R$ 5,21",
-    "print_original_price": "R$ 14,90",
-    "print_discount_percent": "65%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B0B729NM88?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0B729NM88.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-06-22T16:25:53.381046+00:00"
-  },
-  {
-    "asin": "B015RWOIB2",
-    "title": "Entendendo a dor (Temas de Prevenção em Saúde)",
-    "print_price": "R$ 24,92",
-    "print_original_price": "R$ 71,20",
-    "print_discount_percent": "65%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B015RWOIB2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B015RWOIB2.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-06-22T16:25:53.381065+00:00"
-  },
-  {
-    "asin": "B016353DEK",
-    "title": "Inovação: como levar sua empresa para o próximo nível (Think...",
-    "print_price": "R$ 23,24",
-    "print_original_price": "R$ 66,40",
-    "print_discount_percent": "65%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B016353DEK?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B016353DEK.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-06-22T16:25:53.381082+00:00"
-  },
-  {
-    "asin": "B07YQ8CZZ7",
-    "title": "Jamais peço desculpas por me derramar",
-    "print_price": "R$ 15,16",
-    "print_original_price": "R$ 37,90",
-    "print_discount_percent": "60%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B07YQ8CZZ7?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07YQ8CZZ7.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-06-22T16:25:53.381103+00:00"
-  },
-  {
     "asin": "B07P19JPP7",
     "title": "Box Digital – Os Bridgertons: Os 9 títulos da série + livro ...",
     "print_price": null,
@@ -1884,7 +1772,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T02:06:47.874080+00:00"
   },
   {
@@ -1900,7 +1788,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T02:06:47.874148+00:00"
   },
   {
@@ -1916,7 +1804,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T02:06:47.874208+00:00"
   },
   {
@@ -1932,7 +1820,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T02:06:47.874249+00:00"
   },
   {
@@ -1948,7 +1836,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T02:06:47.874284+00:00"
   },
   {
@@ -1964,7 +1852,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T13:58:28.800651+00:00"
   },
   {
@@ -1980,7 +1868,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T13:58:28.800727+00:00"
   },
   {
@@ -1996,7 +1884,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T13:58:28.800758+00:00"
   },
   {
@@ -2012,7 +1900,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T13:58:28.800776+00:00"
   },
   {
@@ -2028,7 +1916,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T13:58:28.800791+00:00"
   },
   {
@@ -2044,7 +1932,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T13:58:28.800803+00:00"
   },
   {
@@ -2060,7 +1948,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T13:58:28.800815+00:00"
   },
   {
@@ -2076,7 +1964,23 @@
     "ebook_original_price": "R$ 299,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GXC8FJSG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-06-26T13:58:28.800829+00:00"
+  },
+  {
+    "asin": "B0G6Z8NZG8",
+    "title": "Releasing 10: Salvos pelo amor, destruídos pela verdade (Os ...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0G6Z8NZG8.jpg",
+    "ebook_asin": "B0G6Z8NZG8",
+    "ebook_price": "R$ 19,90",
+    "ebook_original_price": "R$ 79,90",
+    "ebook_discount_percent": "75%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0G6Z8NZG8?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-06-27T02:01:31.354948+00:00"
   }
 ]
