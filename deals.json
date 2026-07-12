@@ -2798,5 +2798,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GJFQSBTC?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-07-12T01:27:13.316928+00:00"
+  },
+  {
+    "asin": "6555000376",
+    "title": "O monstro das cores",
+    "print_price": "R$ 52,20",
+    "print_original_price": "R$ 169,00",
+    "print_discount_percent": "69%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6555000376?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6555000376.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-07-12T12:52:21.253070+00:00"
   }
 ]
