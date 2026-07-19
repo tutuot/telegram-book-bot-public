@@ -1678,5 +1678,53 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00KDLKDPS?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-07-19T01:24:53.339521+00:00"
+  },
+  {
+    "asin": "B0BZSTHLMV",
+    "title": "A mandíbula de Caim (Edição bilíngue)",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0BZSTHLMV.jpg",
+    "ebook_asin": "B0BZSTHLMV",
+    "ebook_price": "R$ 13,26",
+    "ebook_original_price": "R$ 39,90",
+    "ebook_discount_percent": "66%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BZSTHLMV?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-07-19T12:49:01.066063+00:00"
+  },
+  {
+    "asin": "8516101479",
+    "title": "Pequeno Dicionário Houaiss da Língua Portuguesa",
+    "print_price": "R$ 55,09",
+    "print_original_price": "R$ 145,00",
+    "print_discount_percent": "62%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8516101479?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8516101479.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-07-19T12:49:01.066161+00:00"
+  },
+  {
+    "asin": "B07495GW4C",
+    "title": "Sniper de Elite – perseguição ao Lobo",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07495GW4C.jpg",
+    "ebook_asin": "B07495GW4C",
+    "ebook_price": "R$ 9,46",
+    "ebook_original_price": "R$ 24,90",
+    "ebook_discount_percent": "62%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07495GW4C?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-07-19T12:49:01.066210+00:00"
   }
 ]
