@@ -2236,7 +2236,7 @@
     "ebook_original_price": "R$ 99,90",
     "ebook_discount_percent": "80%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0D75X4TMX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-05T01:24:00.435926+00:00"
   },
   {
@@ -2252,7 +2252,7 @@
     "ebook_original_price": "R$ 84,90",
     "ebook_discount_percent": "76%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0D2RBQZML?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-05T01:24:00.436017+00:00"
   },
   {
@@ -2268,7 +2268,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-05T01:24:00.436052+00:00"
   },
   {
@@ -2284,7 +2284,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-05T13:39:56.316108+00:00"
   },
   {
@@ -2300,7 +2300,71 @@
     "ebook_original_price": "R$ 119,00",
     "ebook_discount_percent": "62%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09PW8LBZD?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-05T13:39:56.316184+00:00"
+  },
+  {
+    "asin": "B07GNT1RTM",
+    "title": "Sexo no cativeiro: Como manter a paixão nos relacionamentos",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07GNT1RTM.jpg",
+    "ebook_asin": "B07GNT1RTM",
+    "ebook_price": "R$ 19,90",
+    "ebook_original_price": "R$ 87,90",
+    "ebook_discount_percent": "77%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07GNT1RTM?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-06T01:21:08.807929+00:00"
+  },
+  {
+    "asin": "658495627X",
+    "title": "O Idiota - Edição de Luxo Almofadada",
+    "print_price": "R$ 51,66",
+    "print_original_price": "R$ 139,90",
+    "print_discount_percent": "63%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/658495627X?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/658495627X.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-08-06T01:21:08.808004+00:00"
+  },
+  {
+    "asin": "B0BCT6YZBS",
+    "title": "Um defeito de cor – Edição especial",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0BCT6YZBS.jpg",
+    "ebook_asin": "B0BCT6YZBS",
+    "ebook_price": "R$ 23,90",
+    "ebook_original_price": "R$ 59,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BCT6YZBS?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-06T01:21:08.808055+00:00"
+  },
+  {
+    "asin": "B0GR7L9R44",
+    "title": "Ressalga",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0GR7L9R44.jpg",
+    "ebook_asin": "B0GR7L9R44",
+    "ebook_price": "R$ 15,96",
+    "ebook_original_price": "R$ 39,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GR7L9R44?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-06T01:21:08.808093+00:00"
   }
 ]
