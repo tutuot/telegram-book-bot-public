@@ -1,53 +1,5 @@
 [
   {
-    "asin": "B0D75X4TMX",
-    "title": "Nexus: Uma breve história das redes de informação, da Idade ...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0D75X4TMX.jpg",
-    "ebook_asin": "B0D75X4TMX",
-    "ebook_price": "R$ 19,90",
-    "ebook_original_price": "R$ 99,90",
-    "ebook_discount_percent": "80%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0D75X4TMX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-08-05T01:24:00.435926+00:00"
-  },
-  {
-    "asin": "B0D2RBQZML",
-    "title": "A geração ansiosa: Como a infância hiperconectada está causa...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0D2RBQZML.jpg",
-    "ebook_asin": "B0D2RBQZML",
-    "ebook_price": "R$ 19,90",
-    "ebook_original_price": "R$ 84,90",
-    "ebook_discount_percent": "76%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0D2RBQZML?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-08-05T01:24:00.436017+00:00"
-  },
-  {
-    "asin": "8516063135",
-    "title": "A fantástica máquina dos bicho",
-    "print_price": "R$ 35,99",
-    "print_original_price": "R$ 92,00",
-    "print_discount_percent": "60%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/8516063135?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8516063135.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-08-05T01:24:00.436052+00:00"
-  },
-  {
     "asin": "8594318596",
     "title": "A Arte da Guerra",
     "print_price": "R$ 9,34",
@@ -366,5 +318,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07MC55V2G?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-08-09T00:47:33.626572+00:00"
+  },
+  {
+    "asin": "B00N2X4RQK",
+    "title": "Trono de Vidro: Coroa da meia-noite (Vol. 2)",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00N2X4RQK.jpg",
+    "ebook_asin": "B00N2X4RQK",
+    "ebook_price": "R$ 13,26",
+    "ebook_original_price": "R$ 37,90",
+    "ebook_discount_percent": "65%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00N2X4RQK?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-09T12:26:13.971483+00:00"
   }
 ]
