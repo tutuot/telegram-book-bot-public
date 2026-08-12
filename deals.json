@@ -1,37 +1,5 @@
 [
   {
-    "asin": "8583623775",
-    "title": "Mo Dao Zu Shi: O Fundador da Cultivação Demoníaca - Livro 3",
-    "print_price": "R$ 29,88",
-    "print_original_price": "R$ 86,90",
-    "print_discount_percent": "65%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/8583623775?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8583623775.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-08-08T12:23:25.337419+00:00"
-  },
-  {
-    "asin": "B08Y3CV67L",
-    "title": "As extraordinárias viagens de Júlio Verne - Box com 6 livros",
-    "print_price": "R$ 67,52",
-    "print_original_price": "R$ 179,00",
-    "print_discount_percent": "62%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B08Y3CV67L?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08Y3CV67L.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-08-08T12:23:25.337476+00:00"
-  },
-  {
     "asin": "B086Q17HF4",
     "title": "Mitologia dos orixás",
     "print_price": null,
@@ -2398,5 +2366,21 @@
     "ebook_affiliate_url": null,
     "posted": false,
     "scraped_at": "2026-08-12T00:57:34.216653+00:00"
+  },
+  {
+    "asin": "B009WWDBX0",
+    "title": "A revolução dos bichos",
+    "print_price": "R$ 9,90",
+    "print_original_price": "R$ 44,90",
+    "print_discount_percent": "77%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/B009WWDBX0?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B009WWDBX0.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-08-12T12:41:30.501307+00:00"
   }
 ]
