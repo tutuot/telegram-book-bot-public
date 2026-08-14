@@ -3758,5 +3758,53 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00WXRQHVE?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-08-14T00:57:52.237618+00:00"
+  },
+  {
+    "asin": "B0D75X4TMX",
+    "title": "Nexus: Uma breve história das redes de informação, da Idade ...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0D75X4TMX.jpg",
+    "ebook_asin": "B0D75X4TMX",
+    "ebook_price": "R$ 19,90",
+    "ebook_original_price": "R$ 99,90",
+    "ebook_discount_percent": "80%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0D75X4TMX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-14T12:37:45.897302+00:00"
+  },
+  {
+    "asin": "B00ZPQ073O",
+    "title": "O sol é para todos",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00ZPQ073O.jpg",
+    "ebook_asin": "B00ZPQ073O",
+    "ebook_price": "R$ 17,16",
+    "ebook_original_price": "R$ 42,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00ZPQ073O?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-14T12:37:45.897406+00:00"
+  },
+  {
+    "asin": "B0BL5TFQP6",
+    "title": "A casa dos espíritos",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0BL5TFQP6.jpg",
+    "ebook_asin": "B0BL5TFQP6",
+    "ebook_price": "R$ 15,96",
+    "ebook_original_price": "R$ 39,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BL5TFQP6?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-14T12:37:45.897449+00:00"
   }
 ]
