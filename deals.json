@@ -1,53 +1,5 @@
 [
   {
-    "asin": "B0D75X4TMX",
-    "title": "Nexus: Uma breve história das redes de informação, da Idade ...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0D75X4TMX.jpg",
-    "ebook_asin": "B0D75X4TMX",
-    "ebook_price": "R$ 19,90",
-    "ebook_original_price": "R$ 99,90",
-    "ebook_discount_percent": "80%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0D75X4TMX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-08-14T12:37:45.897302+00:00"
-  },
-  {
-    "asin": "B00ZPQ073O",
-    "title": "O sol é para todos",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00ZPQ073O.jpg",
-    "ebook_asin": "B00ZPQ073O",
-    "ebook_price": "R$ 17,16",
-    "ebook_original_price": "R$ 42,90",
-    "ebook_discount_percent": "60%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00ZPQ073O?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-08-14T12:37:45.897406+00:00"
-  },
-  {
-    "asin": "B0BL5TFQP6",
-    "title": "A casa dos espíritos",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0BL5TFQP6.jpg",
-    "ebook_asin": "B0BL5TFQP6",
-    "ebook_price": "R$ 15,96",
-    "ebook_original_price": "R$ 39,90",
-    "ebook_discount_percent": "60%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BL5TFQP6?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-08-14T12:37:45.897449+00:00"
-  },
-  {
     "asin": "B00ECEQ3V0",
     "title": "O polegar do violinista: E outras histórias da genética sobr...",
     "print_price": null,
@@ -892,7 +844,7 @@
     "ebook_original_price": "R$ 97,90",
     "ebook_discount_percent": "79%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BPVNJSXP?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T00:33:19.659444+00:00"
   },
   {
@@ -908,7 +860,7 @@
     "ebook_original_price": "R$ 67,90",
     "ebook_discount_percent": "78%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BF7F3P1Z?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T00:33:19.659549+00:00"
   },
   {
@@ -924,7 +876,7 @@
     "ebook_original_price": "R$ 44,90",
     "ebook_discount_percent": "77%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B009WWDBX0?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T00:33:19.659600+00:00"
   },
   {
@@ -940,7 +892,7 @@
     "ebook_original_price": "R$ 82,90",
     "ebook_discount_percent": "75%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00A3D9PY6?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T00:33:19.659643+00:00"
   },
   {
@@ -956,7 +908,7 @@
     "ebook_original_price": "R$ 14,90",
     "ebook_discount_percent": "73%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0FK1PVWRR?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T00:33:19.659679+00:00"
   },
   {
@@ -972,7 +924,7 @@
     "ebook_original_price": "R$ 54,90",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0C34GWN5J?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T00:33:19.659724+00:00"
   },
   {
@@ -988,7 +940,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T00:33:19.659759+00:00"
   },
   {
@@ -1004,7 +956,7 @@
     "ebook_original_price": "R$ 49,90",
     "ebook_discount_percent": "61%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08H2J49G6?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T00:33:19.659794+00:00"
   },
   {
@@ -1020,7 +972,7 @@
     "ebook_original_price": "R$ 134,90",
     "ebook_discount_percent": "79%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B086Q17HF4?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698152+00:00"
   },
   {
@@ -1036,7 +988,7 @@
     "ebook_original_price": "R$ 67,90",
     "ebook_discount_percent": "78%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BHXKV1WK?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698232+00:00"
   },
   {
@@ -1052,7 +1004,7 @@
     "ebook_original_price": "R$ 57,90",
     "ebook_discount_percent": "67%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DBRTQ5GB?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698274+00:00"
   },
   {
@@ -1068,7 +1020,7 @@
     "ebook_original_price": "R$ 59,90",
     "ebook_discount_percent": "66%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09SGKDK16?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698303+00:00"
   },
   {
@@ -1084,7 +1036,7 @@
     "ebook_original_price": "R$ 39,90",
     "ebook_discount_percent": "65%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DCL69SSK?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698331+00:00"
   },
   {
@@ -1100,7 +1052,7 @@
     "ebook_original_price": "R$ 54,90",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0FYRJBL7Z?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698358+00:00"
   },
   {
@@ -1116,7 +1068,7 @@
     "ebook_original_price": "R$ 99,50",
     "ebook_discount_percent": "63%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B097YV5ZL7?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698386+00:00"
   },
   {
@@ -1132,7 +1084,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698416+00:00"
   },
   {
@@ -1148,7 +1100,7 @@
     "ebook_original_price": "R$ 19,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GH1D1R1J?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698446+00:00"
   },
   {
@@ -1164,7 +1116,23 @@
     "ebook_original_price": "R$ 34,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07MC55V2G?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-08-18T12:21:24.698488+00:00"
+  },
+  {
+    "asin": "B08L84CFRT",
+    "title": "Pense como um bilionário: Tudo o que você precisa saber sobr...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08L84CFRT.jpg",
+    "ebook_asin": "B08L84CFRT",
+    "ebook_price": "R$ 11,16",
+    "ebook_original_price": "R$ 31,90",
+    "ebook_discount_percent": "65%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08L84CFRT?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-19T00:33:45.712722+00:00"
   }
 ]
