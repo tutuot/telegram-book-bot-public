@@ -1502,5 +1502,37 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09V3DQJKH?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-08-30T15:39:24.466699+00:00"
+  },
+  {
+    "asin": "B08LNRHYGX",
+    "title": "Círculos de chuva (Dragões de Éter Livro 3)",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08LNRHYGX.jpg",
+    "ebook_asin": "B08LNRHYGX",
+    "ebook_price": "R$ 12,25",
+    "ebook_original_price": "R$ 49,00",
+    "ebook_discount_percent": "75%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08LNRHYGX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-31T02:03:00.483312+00:00"
+  },
+  {
+    "asin": "B07F89TBHX",
+    "title": "Uma certa ideia de Brasil: Entre passado e futuro",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07F89TBHX.jpg",
+    "ebook_asin": "B07F89TBHX",
+    "ebook_price": "R$ 12,22",
+    "ebook_original_price": "R$ 39,90",
+    "ebook_discount_percent": "69%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07F89TBHX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-08-31T02:03:00.483390+00:00"
   }
 ]
