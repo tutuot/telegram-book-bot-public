@@ -2734,5 +2734,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0FGQV27CF?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-03T15:24:21.395546+00:00"
+  },
+  {
+    "asin": "6501372879",
+    "title": "Ranx – Edição Integral Limitada",
+    "print_price": "R$ 71,43",
+    "print_original_price": "R$ 199,90",
+    "print_discount_percent": "64%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6501372879?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6501372879.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-04T01:45:22.085329+00:00"
   }
 ]
