@@ -2750,5 +2750,21 @@
     "ebook_affiliate_url": null,
     "posted": false,
     "scraped_at": "2026-09-04T01:45:22.085329+00:00"
+  },
+  {
+    "asin": "8587898183",
+    "title": "Coleção Monteiro Lobato - Caixa",
+    "print_price": "R$ 25,52",
+    "print_original_price": "R$ 69,90",
+    "print_discount_percent": "63%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8587898183?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8587898183.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-05T01:45:50.756281+00:00"
   }
 ]
