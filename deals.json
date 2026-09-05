@@ -2766,5 +2766,21 @@
     "ebook_affiliate_url": null,
     "posted": false,
     "scraped_at": "2026-09-05T01:45:50.756281+00:00"
+  },
+  {
+    "asin": "6583970090",
+    "title": "Alice no Pais das Maravilhas - Lewis Carroll | Luxo Capa Dur...",
+    "print_price": "R$ 31,31",
+    "print_original_price": "R$ 79,90",
+    "print_discount_percent": "60%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6583970090?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6583970090.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-05T14:08:15.334154+00:00"
   }
 ]
