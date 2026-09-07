@@ -3054,5 +3054,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00A3D0DZG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-06T14:32:41.808429+00:00"
+  },
+  {
+    "asin": "6584956237",
+    "title": "A Arte da Guerra - Sun Tzu",
+    "print_price": "R$ 18,51",
+    "print_original_price": "R$ 59,90",
+    "print_discount_percent": "69%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956237?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956237.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-07T01:38:05.764762+00:00"
   }
 ]
