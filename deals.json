@@ -3278,5 +3278,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07576VT41?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-07T16:47:43.217966+00:00"
+  },
+  {
+    "asin": "B0D79M8H8L",
+    "title": "Confissões de Santo Agostinho - Edição de Luxo",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0D79M8H8L.jpg",
+    "ebook_asin": "B0D79M8H8L",
+    "ebook_price": "R$ 3,16",
+    "ebook_original_price": "R$ 7,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0D79M8H8L?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-08T01:49:25.374570+00:00"
   }
 ]
