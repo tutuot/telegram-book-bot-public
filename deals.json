@@ -3326,5 +3326,21 @@
     "ebook_affiliate_url": null,
     "posted": false,
     "scraped_at": "2026-09-08T15:33:28.890901+00:00"
+  },
+  {
+    "asin": "B074LVMLNG",
+    "title": "Lola Cosmetics Rapunzel - Tônico Capilar 230ml",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B074LVMLNG.jpg",
+    "ebook_asin": "B074LVMLNG",
+    "ebook_price": "R$ 26,91",
+    "ebook_original_price": "R$ 69,90",
+    "ebook_discount_percent": "61%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B074LVMLNG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-09T15:28:20.980615+00:00"
   }
 ]
