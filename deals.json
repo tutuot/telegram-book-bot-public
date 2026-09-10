@@ -3342,5 +3342,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B074LVMLNG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-09T15:28:20.980615+00:00"
+  },
+  {
+    "asin": "6560950166",
+    "title": "Biblioteca Estoica: Grandes Mestres Volume III - Box com 4 L...",
+    "print_price": "R$ 45,07",
+    "print_original_price": "R$ 119,00",
+    "print_discount_percent": "62%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6560950166?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6560950166.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-10T01:51:00.365685+00:00"
   }
 ]
