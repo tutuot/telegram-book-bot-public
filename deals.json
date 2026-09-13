@@ -5070,5 +5070,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B014I5J9UO?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-12T14:33:34.845737+00:00"
+  },
+  {
+    "asin": "6555009969",
+    "title": "Turma da Mônica - Procurar e encontrar: Onde está a Mônica?:...",
+    "print_price": "R$ 7,68",
+    "print_original_price": "R$ 19,90",
+    "print_discount_percent": "61%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6555009969?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6555009969.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-13T01:48:17.676237+00:00"
   }
 ]
