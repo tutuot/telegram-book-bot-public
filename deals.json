@@ -5086,5 +5086,53 @@
     "ebook_affiliate_url": null,
     "posted": false,
     "scraped_at": "2026-09-13T01:48:17.676237+00:00"
+  },
+  {
+    "asin": "B00C7AXPLC",
+    "title": "Pais apostólicos (Clássicos MC)",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00C7AXPLC.jpg",
+    "ebook_asin": "B00C7AXPLC",
+    "ebook_price": "R$ 9,78",
+    "ebook_original_price": "R$ 64,90",
+    "ebook_discount_percent": "84%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00C7AXPLC?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-13T15:13:31.404496+00:00"
+  },
+  {
+    "asin": "6550972116",
+    "title": "O Rei dos Reis: Uma história contada por Charles Dickens",
+    "print_price": "R$ 7,68",
+    "print_original_price": "R$ 19,90",
+    "print_discount_percent": "61%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6550972116?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6550972116.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-13T15:13:31.404575+00:00"
+  },
+  {
+    "asin": "B09SVK2VGH",
+    "title": "O mosquito: A incrível história do maior predador da humanid...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B09SVK2VGH.jpg",
+    "ebook_asin": "B09SVK2VGH",
+    "ebook_price": "R$ 21,96",
+    "ebook_original_price": "R$ 54,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09SVK2VGH?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-13T15:13:31.404629+00:00"
   }
 ]
