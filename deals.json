@@ -5134,5 +5134,37 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09SVK2VGH?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-13T15:13:31.404629+00:00"
+  },
+  {
+    "asin": "B0BM54VW48",
+    "title": "O avesso do bordado: Uma biografia de Marco Nanini",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0BM54VW48.jpg",
+    "ebook_asin": "B0BM54VW48",
+    "ebook_price": "R$ 19,96",
+    "ebook_original_price": "R$ 124,90",
+    "ebook_discount_percent": "84%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BM54VW48?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-14T02:05:17.151584+00:00"
+  },
+  {
+    "asin": "B08B17V6JW",
+    "title": "O segredo do meu turbante",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08B17V6JW.jpg",
+    "ebook_asin": "B08B17V6JW",
+    "ebook_price": "R$ 21,96",
+    "ebook_original_price": "R$ 54,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08B17V6JW?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-14T02:05:17.151673+00:00"
   }
 ]
