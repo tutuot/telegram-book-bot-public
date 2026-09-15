@@ -5278,5 +5278,37 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00KDLKEWA?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-15T02:13:09.654374+00:00"
+  },
+  {
+    "asin": "B08Y3CV67L",
+    "title": "As extraordinárias viagens de Júlio Verne - Box com 6 livros",
+    "print_price": "R$ 61,93",
+    "print_original_price": "R$ 179,00",
+    "print_discount_percent": "65%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/B08Y3CV67L?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08Y3CV67L.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-15T15:51:11.248535+00:00"
+  },
+  {
+    "asin": "B01HJ16MRW",
+    "title": "O americano tranquilo",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B01HJ16MRW.jpg",
+    "ebook_asin": "B01HJ16MRW",
+    "ebook_price": "R$ 21,96",
+    "ebook_original_price": "R$ 54,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B01HJ16MRW?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-15T15:51:11.248595+00:00"
   }
 ]
