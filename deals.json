@@ -5310,5 +5310,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B01HJ16MRW?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-15T15:51:11.248595+00:00"
+  },
+  {
+    "asin": "B08WPMLDST",
+    "title": "O poder do incômodo: Use as insatisfações a seu favor e alca...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08WPMLDST.jpg",
+    "ebook_asin": "B08WPMLDST",
+    "ebook_price": "R$ 26,20",
+    "ebook_original_price": "R$ 74,90",
+    "ebook_discount_percent": "65%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08WPMLDST?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-16T02:05:00.233976+00:00"
   }
 ]
