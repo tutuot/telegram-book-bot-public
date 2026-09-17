@@ -5326,5 +5326,53 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08WPMLDST?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-16T02:05:00.233976+00:00"
+  },
+  {
+    "asin": "B07BJ85M16",
+    "title": "Nada escapa a lady Whistledown",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07BJ85M16.jpg",
+    "ebook_asin": "B07BJ85M16",
+    "ebook_price": "R$ 14,05",
+    "ebook_original_price": "R$ 36,99",
+    "ebook_discount_percent": "62%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07BJ85M16?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-17T15:48:34.421697+00:00"
+  },
+  {
+    "asin": "B00B9A0ZN2",
+    "title": "Sherlock Holmes - O Cão dos Baskerville",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00B9A0ZN2.jpg",
+    "ebook_asin": "B00B9A0ZN2",
+    "ebook_price": "R$ 5,98",
+    "ebook_original_price": "R$ 14,95",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00B9A0ZN2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-17T15:48:34.421785+00:00"
+  },
+  {
+    "asin": "B00KB87ILA",
+    "title": "Black Sabbath",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00KB87ILA.jpg",
+    "ebook_asin": "B00KB87ILA",
+    "ebook_price": "R$ 21,96",
+    "ebook_original_price": "R$ 54,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00KB87ILA?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-17T15:48:34.421814+00:00"
   }
 ]
