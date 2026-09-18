@@ -5374,5 +5374,37 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00KB87ILA?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-17T15:48:34.421814+00:00"
+  },
+  {
+    "asin": "B07JH881JY",
+    "title": "Ilha de vidro (Trilogia Guardiões)",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07JH881JY.jpg",
+    "ebook_asin": "B07JH881JY",
+    "ebook_price": "R$ 4,32",
+    "ebook_original_price": "R$ 36,99",
+    "ebook_discount_percent": "88%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07JH881JY?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-18T15:21:17.590989+00:00"
+  },
+  {
+    "asin": "B0B6D98ZH1",
+    "title": "Diorama",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0B6D98ZH1.jpg",
+    "ebook_asin": "B0B6D98ZH1",
+    "ebook_price": "R$ 29,90",
+    "ebook_original_price": "R$ 89,90",
+    "ebook_discount_percent": "66%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0B6D98ZH1?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-18T15:21:17.591083+00:00"
   }
 ]
