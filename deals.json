@@ -5406,5 +5406,37 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0B6D98ZH1?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-18T15:21:17.591083+00:00"
+  },
+  {
+    "asin": "B083QN3TF1",
+    "title": "Ah, se eu soubesse!: Coisas que aprendi só depois de ter fil...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B083QN3TF1.jpg",
+    "ebook_asin": "B083QN3TF1",
+    "ebook_price": "R$ 9,78",
+    "ebook_original_price": "R$ 17,12",
+    "ebook_discount_percent": "84%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B083QN3TF1?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-19T02:00:51.006387+00:00"
+  },
+  {
+    "asin": "B09S14SKMY",
+    "title": "Escada de luz (CEU)",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B09S14SKMY.jpg",
+    "ebook_asin": "B09S14SKMY",
+    "ebook_price": "R$ 5,96",
+    "ebook_original_price": "R$ 14,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09S14SKMY?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-09-19T02:00:51.006473+00:00"
   }
 ]
