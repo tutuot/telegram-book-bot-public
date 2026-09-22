@@ -5790,5 +5790,21 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B01M1IIGMH?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": false,
     "scraped_at": "2026-09-22T02:11:27.053912+00:00"
+  },
+  {
+    "asin": "6555395656",
+    "title": "O Menino Maluquinho",
+    "print_price": "R$ 22,07",
+    "print_original_price": "R$ 56,00",
+    "print_discount_percent": "60%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6555395656?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6555395656.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-22T15:53:15.999100+00:00"
   }
 ]
