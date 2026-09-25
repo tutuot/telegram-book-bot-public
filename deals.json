@@ -5982,5 +5982,21 @@
     "ebook_affiliate_url": null,
     "posted": false,
     "scraped_at": "2026-09-24T16:03:40.813163+00:00"
+  },
+  {
+    "asin": "8537642630",
+    "title": "Meu Primeiro Tesouro Bíblico: Box com 6 und.",
+    "print_price": "R$ 12,33",
+    "print_original_price": "R$ 39,90",
+    "print_discount_percent": "69%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8537642630?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8537642630.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-25T02:14:52.929153+00:00"
   }
 ]
