@@ -412,7 +412,7 @@
     "ebook_original_price": "R$ 62,90",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09LDH91HH?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-09-29T17:10:57.134842+00:00"
   },
   {
@@ -428,7 +428,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-09-29T17:10:57.134896+00:00"
   },
   {
@@ -444,7 +444,23 @@
     "ebook_original_price": "R$ 24,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0B7BHQQFH?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-09-29T17:10:57.134924+00:00"
+  },
+  {
+    "asin": "6584956261",
+    "title": "Dom Quixote de la Mancha – Edição de Luxo Almofadada | Versã...",
+    "print_price": "R$ 71,62",
+    "print_original_price": "R$ 199,00",
+    "print_discount_percent": "64%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956261?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956261.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-09-30T02:46:23.324226+00:00"
   }
 ]
