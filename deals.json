@@ -460,7 +460,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-09-30T02:46:23.324226+00:00"
   }
 ]
