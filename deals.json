@@ -476,7 +476,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-06T17:32:36.149852+00:00"
   },
   {
@@ -492,7 +492,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-06T17:32:36.149925+00:00"
   },
   {
@@ -508,7 +508,7 @@
     "ebook_original_price": "R$ 57,90",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DBRTQ5GB?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-06T17:32:36.149958+00:00"
   },
   {
@@ -524,7 +524,7 @@
     "ebook_original_price": "R$ 42,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00ZPQ073O?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-06T17:32:36.149985+00:00"
   },
   {
@@ -540,7 +540,71 @@
     "ebook_original_price": "R$ 29,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0153SZLXO?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-06T17:32:36.150010+00:00"
+  },
+  {
+    "asin": "B0F9BX8HZH",
+    "title": "Deixa pra lá",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0F9BX8HZH.jpg",
+    "ebook_asin": "B0F9BX8HZH",
+    "ebook_price": "R$ 9,90",
+    "ebook_original_price": "R$ 34,90",
+    "ebook_discount_percent": "71%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0F9BX8HZH?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-07T03:04:04.359367+00:00"
+  },
+  {
+    "asin": "B0B5FHVL3R",
+    "title": "Lâmpada LED Smart Elgin 30W Compatível com Alexa e Google Ho...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0B5FHVL3R.jpg",
+    "ebook_asin": "B0B5FHVL3R",
+    "ebook_price": "R$ 41,69",
+    "ebook_original_price": "R$ 139,90",
+    "ebook_discount_percent": "70%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0B5FHVL3R?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-07T03:04:04.359686+00:00"
+  },
+  {
+    "asin": "6584956938",
+    "title": "Noites Brancas - Edição de Luxo Almofadada",
+    "print_price": "R$ 19,89",
+    "print_original_price": "R$ 59,90",
+    "print_discount_percent": "66%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956938?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956938.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-10-07T03:04:04.359723+00:00"
+  },
+  {
+    "asin": "B07Y2CRBBK",
+    "title": "Scalibor® 25g - Coleira Antiparasitária contra mosquitos vet...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07Y2CRBBK.jpg",
+    "ebook_asin": "B07Y2CRBBK",
+    "ebook_price": "R$ 44,39",
+    "ebook_original_price": "R$ 131,00",
+    "ebook_discount_percent": "66%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07Y2CRBBK?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-07T03:04:04.359741+00:00"
   }
 ]
