@@ -606,5 +606,53 @@
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07Y2CRBBK?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
     "posted": true,
     "scraped_at": "2026-10-07T03:04:04.359741+00:00"
+  },
+  {
+    "asin": "6559571289",
+    "title": "Imperfeitos",
+    "print_price": "R$ 14,89",
+    "print_original_price": "R$ 44,90",
+    "print_discount_percent": "66%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6559571289?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6559571289.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-10-08T18:06:33.169059+00:00"
+  },
+  {
+    "asin": "6584956253",
+    "title": "Irmãos Karamazov - Edição de Luxo Almofadada",
+    "print_price": "R$ 52,80",
+    "print_original_price": "R$ 139,90",
+    "print_discount_percent": "62%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956253?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956253.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-10-08T18:06:33.169120+00:00"
+  },
+  {
+    "asin": "6583970341",
+    "title": "Além do Bem e do Mal - Friedrich Nietzsche | Luxo Capa Dura",
+    "print_price": "R$ 27,38",
+    "print_original_price": "R$ 69,90",
+    "print_discount_percent": "60%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6583970341?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6583970341.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-10-08T18:06:33.169151+00:00"
   }
 ]
