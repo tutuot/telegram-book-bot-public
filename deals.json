@@ -1,85 +1,5 @@
 [
   {
-    "asin": "B08Y3CV67L",
-    "title": "As extraordinárias viagens de Júlio Verne - Box com 6 livros",
-    "print_price": "R$ 47,59",
-    "print_original_price": "R$ 179,00",
-    "print_discount_percent": "73%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B08Y3CV67L?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08Y3CV67L.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-10-06T17:32:36.149852+00:00"
-  },
-  {
-    "asin": "0847872149",
-    "title": "Ralph Lauren a way of living: Home, Design, Inspiration",
-    "print_price": "R$ 242,72",
-    "print_original_price": "R$ 800,00",
-    "print_discount_percent": "69%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/0847872149?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0847872149.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-10-06T17:32:36.149925+00:00"
-  },
-  {
-    "asin": "B0DBRTQ5GB",
-    "title": "Sociedade do cansaço - Nobilis",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0DBRTQ5GB.jpg",
-    "ebook_asin": "B0DBRTQ5GB",
-    "ebook_price": "R$ 20,63",
-    "ebook_original_price": "R$ 57,90",
-    "ebook_discount_percent": "64%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DBRTQ5GB?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-10-06T17:32:36.149958+00:00"
-  },
-  {
-    "asin": "B00ZPQ073O",
-    "title": "O sol é para todos",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00ZPQ073O.jpg",
-    "ebook_asin": "B00ZPQ073O",
-    "ebook_price": "R$ 17,16",
-    "ebook_original_price": "R$ 42,90",
-    "ebook_discount_percent": "60%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00ZPQ073O?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-10-06T17:32:36.149985+00:00"
-  },
-  {
-    "asin": "B0153SZLXO",
-    "title": "Mais Esperto que o Diabo: O mistério revelado da liberdade e...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0153SZLXO.jpg",
-    "ebook_asin": "B0153SZLXO",
-    "ebook_price": "R$ 11,96",
-    "ebook_original_price": "R$ 29,90",
-    "ebook_discount_percent": "60%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0153SZLXO?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-10-06T17:32:36.150010+00:00"
-  },
-  {
     "asin": "B0F9BX8HZH",
     "title": "Deixa pra lá",
     "print_price": null,
@@ -284,7 +204,7 @@
     "ebook_original_price": "R$ 34,90",
     "ebook_discount_percent": "71%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0H9LZRSS8?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983522+00:00"
   },
   {
@@ -300,7 +220,7 @@
     "ebook_original_price": "R$ 34,93",
     "ebook_discount_percent": "71%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B097HMDGWF?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983570+00:00"
   },
   {
@@ -316,7 +236,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983587+00:00"
   },
   {
@@ -332,7 +252,7 @@
     "ebook_original_price": "R$ 37,73",
     "ebook_discount_percent": "68%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0H6H2YZ9S?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983602+00:00"
   },
   {
@@ -348,7 +268,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983614+00:00"
   },
   {
@@ -364,7 +284,7 @@
     "ebook_original_price": "R$ 29,90",
     "ebook_discount_percent": "66%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0H3X2WL2L?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983627+00:00"
   },
   {
@@ -380,7 +300,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983640+00:00"
   },
   {
@@ -396,7 +316,7 @@
     "ebook_original_price": "R$ 39,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0H34RPRHH?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983656+00:00"
   },
   {
@@ -412,7 +332,7 @@
     "ebook_original_price": "R$ 34,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08JSBYPQL?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983669+00:00"
   },
   {
@@ -428,7 +348,87 @@
     "ebook_original_price": "R$ 19,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GH1D1R1J?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-10T16:31:12.983681+00:00"
+  },
+  {
+    "asin": "B09H9G4H1P",
+    "title": "Véspera",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B09H9G4H1P.jpg",
+    "ebook_asin": "B09H9G4H1P",
+    "ebook_price": "R$ 13,96",
+    "ebook_original_price": "R$ 34,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09H9G4H1P?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-11T02:37:23.732661+00:00"
+  },
+  {
+    "asin": "B0968Y258F",
+    "title": "Uma vida pequena",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0968Y258F.jpg",
+    "ebook_asin": "B0968Y258F",
+    "ebook_price": "R$ 19,90",
+    "ebook_original_price": "R$ 49,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0968Y258F?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-11T02:37:23.732716+00:00"
+  },
+  {
+    "asin": "B0773SNDDT",
+    "title": "O homem e seus símbolos",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0773SNDDT.jpg",
+    "ebook_asin": "B0773SNDDT",
+    "ebook_price": "R$ 17,06",
+    "ebook_original_price": "R$ 42,66",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0773SNDDT?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-11T02:37:23.732735+00:00"
+  },
+  {
+    "asin": "B0F4938P1D",
+    "title": "Sintomas – e o que mais aprendi quando o amor me decepcionou...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0F4938P1D.jpg",
+    "ebook_asin": "B0F4938P1D",
+    "ebook_price": "R$ 15,16",
+    "ebook_original_price": "R$ 37,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0F4938P1D?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-11T02:37:23.732751+00:00"
+  },
+  {
+    "asin": "B07MC55V2G",
+    "title": "Quebrando o hábito de ser você mesmo: Como desconstruir a su...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07MC55V2G.jpg",
+    "ebook_asin": "B07MC55V2G",
+    "ebook_price": "R$ 13,96",
+    "ebook_original_price": "R$ 34,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07MC55V2G?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-11T02:37:23.732765+00:00"
   }
 ]
