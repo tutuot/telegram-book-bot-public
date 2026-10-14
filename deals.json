@@ -1,21 +1,5 @@
 [
   {
-    "asin": "B0BLT2MQY2",
-    "title": "Ventisol Ventilador de teto wind br 3p inj branco c/r invert...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0BLT2MQY2.jpg",
-    "ebook_asin": "B0BLT2MQY2",
-    "ebook_price": "R$ 177,99",
-    "ebook_original_price": "R$ 499,00",
-    "ebook_discount_percent": "64%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BLT2MQY2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-10-10T03:06:03.798175+00:00"
-  },
-  {
     "asin": "B0H9LZRSS8",
     "title": "Separados pelo destino (Vol. 2 Saga Marfil)",
     "print_price": null,
@@ -1356,7 +1340,7 @@
     "ebook_original_price": "R$ 279,90",
     "ebook_discount_percent": "78%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07PLMNQBD?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-14T02:29:29.916151+00:00"
   },
   {
@@ -1372,7 +1356,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-14T02:29:29.916229+00:00"
   },
   {
@@ -1388,7 +1372,7 @@
     "ebook_original_price": "R$ 31,90",
     "ebook_discount_percent": "74%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B093XXB62N?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-14T02:29:29.916295+00:00"
   },
   {
@@ -1404,7 +1388,7 @@
     "ebook_original_price": "R$ 29,90",
     "ebook_discount_percent": "74%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00GNA6R5S?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-14T02:29:29.916338+00:00"
   },
   {
@@ -1420,7 +1404,7 @@
     "ebook_original_price": "R$ 29,90",
     "ebook_discount_percent": "74%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00O4CVKQ8?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-14T02:29:29.916375+00:00"
   },
   {
@@ -1436,7 +1420,7 @@
     "ebook_original_price": "R$ 29,90",
     "ebook_discount_percent": "74%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B00PUEY2FA?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-14T02:29:29.916410+00:00"
   },
   {
@@ -1452,7 +1436,39 @@
     "ebook_original_price": "R$ 139,90",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07F7NBK1S?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-10-14T02:29:29.916453+00:00"
+  },
+  {
+    "asin": "B079YJHN2S",
+    "title": "Estilhaça-me",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B079YJHN2S.jpg",
+    "ebook_asin": "B079YJHN2S",
+    "ebook_price": "R$ 7,96",
+    "ebook_original_price": "R$ 19,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B079YJHN2S?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-14T16:06:59.800735+00:00"
+  },
+  {
+    "asin": "B084Q6YFSS",
+    "title": "Verity",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B084Q6YFSS.jpg",
+    "ebook_asin": "B084Q6YFSS",
+    "ebook_price": "R$ 15,16",
+    "ebook_original_price": "R$ 37,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B084Q6YFSS?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-10-14T16:06:59.800817+00:00"
   }
 ]
