@@ -1084,7 +1084,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-06T03:58:24.623471+00:00"
   },
   {
@@ -1100,7 +1100,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-06T03:58:24.623568+00:00"
   },
   {
@@ -1116,7 +1116,23 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-06T03:58:24.623632+00:00"
+  },
+  {
+    "asin": "B076YLG74Z",
+    "title": "WAP Aspirador de Pó e Água GTW 10, Compacto, 10 Litros, com ...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B076YLG74Z.jpg",
+    "ebook_asin": "B076YLG74Z",
+    "ebook_price": "R$ 199,90",
+    "ebook_original_price": "R$ 499,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B076YLG74Z?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-06T18:52:59.302232+00:00"
   }
 ]
