@@ -1,69 +1,5 @@
 [
   {
-    "asin": "B07PNK7TZK",
-    "title": "Tira-Manchas em Pó Vanish Oxi Action Crystal White Refil, 1k...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07PNK7TZK.jpg",
-    "ebook_asin": "B07PNK7TZK",
-    "ebook_price": "R$ 29,97",
-    "ebook_original_price": "R$ 119,09",
-    "ebook_discount_percent": "74%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07PNK7TZK?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-11-03T18:46:16.225947+00:00"
-  },
-  {
-    "asin": "6553842027",
-    "title": "Selma",
-    "print_price": "R$ 17,24",
-    "print_original_price": "R$ 49,90",
-    "print_discount_percent": "65%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6553842027?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6553842027.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-03T18:46:16.226070+00:00"
-  },
-  {
-    "asin": "6559883752",
-    "title": "Um conto de Natal ― Edição de luxo com capa dura e ilustraçõ...",
-    "print_price": "R$ 29,21",
-    "print_original_price": "R$ 74,90",
-    "print_discount_percent": "61%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6559883752?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6559883752.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-03T18:46:16.226091+00:00"
-  },
-  {
-    "asin": "B08VBXJY7P",
-    "title": "Whisky Johnnie Walker Blonde 750ml",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08VBXJY7P.jpg",
-    "ebook_asin": "B08VBXJY7P",
-    "ebook_price": "R$ 44,90",
-    "ebook_original_price": "R$ 115,90",
-    "ebook_discount_percent": "61%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08VBXJY7P?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-11-03T18:46:16.226106+00:00"
-  },
-  {
     "asin": "8516051021",
     "title": "Viviana: Rainha do pijama",
     "print_price": "R$ 34,16",
@@ -380,7 +316,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-07T17:06:32.096774+00:00"
   },
   {
@@ -396,7 +332,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-07T17:06:32.096853+00:00"
   },
   {
@@ -412,7 +348,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-07T17:06:32.096886+00:00"
   },
   {
@@ -428,7 +364,55 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-07T17:06:32.096915+00:00"
+  },
+  {
+    "asin": "B076PM3J79",
+    "title": "Mor Life - Barraca Luna 5 Pessoas",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B076PM3J79.jpg",
+    "ebook_asin": "B076PM3J79",
+    "ebook_price": "R$ 129,90",
+    "ebook_original_price": "R$ 409,77",
+    "ebook_discount_percent": "68%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B076PM3J79?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-08T03:01:45.954828+00:00"
+  },
+  {
+    "asin": "B097YV5ZL7",
+    "title": "Comunicação não violenta - Nova edição: Técnicas para aprimo...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B097YV5ZL7.jpg",
+    "ebook_asin": "B097YV5ZL7",
+    "ebook_price": "R$ 36,12",
+    "ebook_original_price": "R$ 99,50",
+    "ebook_discount_percent": "63%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B097YV5ZL7?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-08T03:01:45.954913+00:00"
+  },
+  {
+    "asin": "B08JSBYPQL",
+    "title": "Como se tornar sobrenatural: Pessoas comuns realizando o ext...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08JSBYPQL.jpg",
+    "ebook_asin": "B08JSBYPQL",
+    "ebook_price": "R$ 13,96",
+    "ebook_original_price": "R$ 34,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08JSBYPQL?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-08T03:01:45.954954+00:00"
   }
 ]
