@@ -1,21 +1,5 @@
 [
   {
-    "asin": "B0GPRJT5WY",
-    "title": "Os retratos de Golden",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0GPRJT5WY.jpg",
-    "ebook_asin": "B0GPRJT5WY",
-    "ebook_price": "R$ 21,96",
-    "ebook_original_price": "R$ 79,90",
-    "ebook_discount_percent": "72%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GPRJT5WY?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-11-04T18:59:37.150680+00:00"
-  },
-  {
     "asin": "B0CH41K79Q",
     "title": "A leste do Éden",
     "print_price": null,
@@ -316,7 +300,7 @@
     "ebook_original_price": "R$ 54,90",
     "ebook_discount_percent": "63%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CXFFHBRG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-08T17:20:32.258697+00:00"
   },
   {
@@ -332,7 +316,55 @@
     "ebook_original_price": "R$ 409,20",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-08T17:20:32.258776+00:00"
+  },
+  {
+    "asin": "6555000376",
+    "title": "O monstro das cores",
+    "print_price": "R$ 63,72",
+    "print_original_price": "R$ 169,00",
+    "print_discount_percent": "62%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6555000376?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6555000376.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-09T03:24:41.452937+00:00"
+  },
+  {
+    "asin": "8526022253",
+    "title": "O Povo Brasileiro: A Formação e o Sentido do Brasil",
+    "print_price": "R$ 42,75",
+    "print_original_price": "R$ 109,00",
+    "print_discount_percent": "60%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8526022253?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8526022253.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-09T03:24:41.453022+00:00"
+  },
+  {
+    "asin": "6561263022",
+    "title": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
+    "print_price": "R$ 19,74",
+    "print_original_price": "R$ 49,90",
+    "print_discount_percent": "60%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6561263022?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6561263022.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-09T03:24:41.453075+00:00"
   }
 ]
