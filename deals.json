@@ -1,53 +1,5 @@
 [
   {
-    "asin": "6584956393",
-    "title": "Confissões de Santo Agostinho - Edição de Luxo Almofadada",
-    "print_price": "R$ 29,18",
-    "print_original_price": "R$ 89,90",
-    "print_discount_percent": "67%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956393?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956393.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-06T03:58:24.623471+00:00"
-  },
-  {
-    "asin": "B08N9P9M5L",
-    "title": "Coleção Anne de Green Gables com 8 livros mais Diário de ave...",
-    "print_price": "R$ 66,46",
-    "print_original_price": "R$ 179,90",
-    "print_discount_percent": "63%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B08N9P9M5L?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08N9P9M5L.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-06T03:58:24.623568+00:00"
-  },
-  {
-    "asin": "6558881489",
-    "title": "Crime e Castigo",
-    "print_price": "R$ 18,72",
-    "print_original_price": "R$ 47,99",
-    "print_discount_percent": "60%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6558881489?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6558881489.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-06T03:58:24.623632+00:00"
-  },
-  {
     "asin": "B076YLG74Z",
     "title": "WAP Aspirador de Pó e Água GTW 10, Compacto, 10 Litros, com ...",
     "print_price": null,
@@ -300,7 +252,7 @@
     "ebook_original_price": "R$ 134,90",
     "ebook_discount_percent": "83%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B086Q17HF4?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-09T21:42:54.012040+00:00"
   },
   {
@@ -316,7 +268,7 @@
     "ebook_original_price": "R$ 79,90",
     "ebook_discount_percent": "78%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09CHH1BMX?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-09T21:42:54.012111+00:00"
   },
   {
@@ -332,7 +284,7 @@
     "ebook_original_price": "R$ 69,90",
     "ebook_discount_percent": "78%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CSZJL3PS?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-09T21:42:54.012155+00:00"
   },
   {
@@ -348,7 +300,7 @@
     "ebook_original_price": "R$ 79,90",
     "ebook_discount_percent": "72%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GPRJT5WY?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-09T21:42:54.012190+00:00"
   },
   {
@@ -364,7 +316,7 @@
     "ebook_original_price": "R$ 299,90",
     "ebook_discount_percent": "66%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GXC8FJSG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-09T21:42:54.012225+00:00"
   },
   {
@@ -380,7 +332,7 @@
     "ebook_original_price": "R$ 27,90",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B095191QQH?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-09T21:42:54.012261+00:00"
   },
   {
@@ -396,7 +348,7 @@
     "ebook_original_price": "R$ 48,00",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0BZWXG4HM?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-09T21:42:54.012296+00:00"
   },
   {
@@ -412,7 +364,103 @@
     "ebook_original_price": "R$ 39,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CBN7ZMX5?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-09T21:42:54.012335+00:00"
+  },
+  {
+    "asin": "B0CH41K79Q",
+    "title": "A leste do Éden",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0CH41K79Q.jpg",
+    "ebook_asin": "B0CH41K79Q",
+    "ebook_price": "R$ 9,90",
+    "ebook_original_price": "R$ 69,90",
+    "ebook_discount_percent": "85%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CH41K79Q?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-10T05:00:26.239403+00:00"
+  },
+  {
+    "asin": "B07PNK7TZK",
+    "title": "Tira-Manchas em Pó Vanish Oxi Action Crystal White Refil, 1k...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07PNK7TZK.jpg",
+    "ebook_asin": "B07PNK7TZK",
+    "ebook_price": "R$ 29,97",
+    "ebook_original_price": "R$ 119,09",
+    "ebook_discount_percent": "74%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07PNK7TZK?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-10T05:00:26.239488+00:00"
+  },
+  {
+    "asin": "B0H9LZRSS8",
+    "title": "Separados pelo destino (Vol. 2 Saga Marfil)",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0H9LZRSS8.jpg",
+    "ebook_asin": "B0H9LZRSS8",
+    "ebook_price": "R$ 9,90",
+    "ebook_original_price": "R$ 34,90",
+    "ebook_discount_percent": "71%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0H9LZRSS8?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-10T05:00:26.239531+00:00"
+  },
+  {
+    "asin": "B0F22QQS59",
+    "title": "A elite do atraso",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0F22QQS59.jpg",
+    "ebook_asin": "B0F22QQS59",
+    "ebook_price": "R$ 12,90",
+    "ebook_original_price": "R$ 39,90",
+    "ebook_discount_percent": "67%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0F22QQS59?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-10T05:00:26.239555+00:00"
+  },
+  {
+    "asin": "6561262131",
+    "title": "Coleção Primeira Biblioteca Volume 01 - Box com 10 Livrinhos",
+    "print_price": "R$ 33,85",
+    "print_original_price": "R$ 99,90",
+    "print_discount_percent": "66%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6561262131?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6561262131.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-10T05:00:26.239577+00:00"
+  },
+  {
+    "asin": "B0DFMTNKB2",
+    "title": "O pobre de direita",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0DFMTNKB2.jpg",
+    "ebook_asin": "B0DFMTNKB2",
+    "ebook_price": "R$ 14,90",
+    "ebook_original_price": "R$ 39,90",
+    "ebook_discount_percent": "62%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DFMTNKB2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-10T05:00:26.239598+00:00"
   }
 ]
