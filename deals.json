@@ -1,21 +1,5 @@
 [
   {
-    "asin": "B076YLG74Z",
-    "title": "WAP Aspirador de Pó e Água GTW 10, Compacto, 10 Litros, com ...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B076YLG74Z.jpg",
-    "ebook_asin": "B076YLG74Z",
-    "ebook_price": "R$ 199,90",
-    "ebook_original_price": "R$ 499,90",
-    "ebook_discount_percent": "60%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B076YLG74Z?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-11-06T18:52:59.302232+00:00"
-  },
-  {
     "asin": "658397035X",
     "title": "Sobre a Brevidade da Vida - Sêneca | Luxo Capa Dura",
     "print_price": "R$ 20,78",
@@ -380,7 +364,7 @@
     "ebook_original_price": "R$ 69,90",
     "ebook_discount_percent": "85%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CH41K79Q?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-10T05:00:26.239403+00:00"
   },
   {
@@ -396,7 +380,7 @@
     "ebook_original_price": "R$ 119,09",
     "ebook_discount_percent": "74%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07PNK7TZK?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-10T05:00:26.239488+00:00"
   },
   {
@@ -412,7 +396,7 @@
     "ebook_original_price": "R$ 34,90",
     "ebook_discount_percent": "71%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0H9LZRSS8?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-10T05:00:26.239531+00:00"
   },
   {
@@ -428,7 +412,7 @@
     "ebook_original_price": "R$ 39,90",
     "ebook_discount_percent": "67%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0F22QQS59?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-10T05:00:26.239555+00:00"
   },
   {
@@ -444,7 +428,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-10T05:00:26.239577+00:00"
   },
   {
@@ -460,7 +444,55 @@
     "ebook_original_price": "R$ 39,90",
     "ebook_discount_percent": "62%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0DFMTNKB2?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-10T05:00:26.239598+00:00"
+  },
+  {
+    "asin": "6584956393",
+    "title": "Confissões de Santo Agostinho - Edição de Luxo Almofadada",
+    "print_price": "R$ 29,18",
+    "print_original_price": "R$ 89,90",
+    "print_discount_percent": "67%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956393?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956393.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-10T19:00:31.812105+00:00"
+  },
+  {
+    "asin": "B0GHPGBPSR",
+    "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao)...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0GHPGBPSR.jpg",
+    "ebook_asin": "B0GHPGBPSR",
+    "ebook_price": "R$ 44,00",
+    "ebook_original_price": "R$ 119,90",
+    "ebook_discount_percent": "63%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GHPGBPSR?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-10T19:00:31.812167+00:00"
+  },
+  {
+    "asin": "6558881489",
+    "title": "Crime e Castigo",
+    "print_price": "R$ 18,72",
+    "print_original_price": "R$ 47,99",
+    "print_discount_percent": "60%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6558881489?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6558881489.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-10T19:00:31.812195+00:00"
   }
 ]
