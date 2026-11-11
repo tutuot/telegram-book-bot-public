@@ -1,101 +1,5 @@
 [
   {
-    "asin": "658397035X",
-    "title": "Sobre a Brevidade da Vida - Sêneca | Luxo Capa Dura",
-    "print_price": "R$ 20,78",
-    "print_original_price": "R$ 59,90",
-    "print_discount_percent": "65%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/658397035X?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/658397035X.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-07T03:32:30.954745+00:00"
-  },
-  {
-    "asin": "B08ZK6N3XZ",
-    "title": "As obras revolucionárias de George Orwell - Box com 3 livros",
-    "print_price": "R$ 29,59",
-    "print_original_price": "R$ 74,90",
-    "print_discount_percent": "60%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/B08ZK6N3XZ?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08ZK6N3XZ.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-07T03:32:30.954826+00:00"
-  },
-  {
-    "asin": "8516123456",
-    "title": "Gramática Fundamental 5",
-    "print_price": "R$ 80,98",
-    "print_original_price": "R$ 270,00",
-    "print_discount_percent": "70%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/8516123456?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8516123456.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-07T17:06:32.096774+00:00"
-  },
-  {
-    "asin": "6584956385",
-    "title": "Box Alice - Box com 2 livros - Edição de Luxo Almofadada",
-    "print_price": "R$ 47,07",
-    "print_original_price": "R$ 159,90",
-    "print_discount_percent": "70%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956385?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956385.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-07T17:06:32.096853+00:00"
-  },
-  {
-    "asin": "6584956938",
-    "title": "Noites Brancas - Edição de Luxo Almofadada",
-    "print_price": "R$ 17,89",
-    "print_original_price": "R$ 59,90",
-    "print_discount_percent": "70%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956938?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956938.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-07T17:06:32.096886+00:00"
-  },
-  {
-    "asin": "6583970376",
-    "title": "O Jardim Secreto - Frances Burnett | Luxo Capa Dura",
-    "print_price": "R$ 25,10",
-    "print_original_price": "R$ 69,90",
-    "print_discount_percent": "64%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/6583970376?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6583970376.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-07T17:06:32.096915+00:00"
-  },
-  {
     "asin": "B076PM3J79",
     "title": "Mor Life - Barraca Luna 5 Pessoas",
     "print_price": null,
@@ -508,7 +412,7 @@
     "ebook_original_price": "R$ 59,90",
     "ebook_discount_percent": "76%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0FM1XG7S9?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-11T03:32:11.860534+00:00"
   },
   {
@@ -524,7 +428,7 @@
     "ebook_original_price": "R$ 48,90",
     "ebook_discount_percent": "70%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0HDSZX3BV?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-11T03:32:11.860632+00:00"
   },
   {
@@ -540,7 +444,7 @@
     "ebook_original_price": "R$ 79,90",
     "ebook_discount_percent": "65%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0G6SKT2Z8?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-11T03:32:11.860661+00:00"
   },
   {
@@ -556,7 +460,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-11T03:32:11.860683+00:00"
   },
   {
@@ -572,7 +476,39 @@
     "ebook_original_price": "R$ 39,90",
     "ebook_discount_percent": "62%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GX2YYRK5?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-11T03:32:11.860707+00:00"
+  },
+  {
+    "asin": "B07XTNKQKF",
+    "title": "Os sete maridos de Evelyn Hugo",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B07XTNKQKF.jpg",
+    "ebook_asin": "B07XTNKQKF",
+    "ebook_price": "R$ 14,95",
+    "ebook_original_price": "R$ 69,90",
+    "ebook_discount_percent": "78%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07XTNKQKF?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-11T18:58:21.816318+00:00"
+  },
+  {
+    "asin": "B0CVCLGV1W",
+    "title": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0CVCLGV1W.jpg",
+    "ebook_asin": "B0CVCLGV1W",
+    "ebook_price": "R$ 195,00",
+    "ebook_original_price": "R$ 549,00",
+    "ebook_discount_percent": "64%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-11T18:58:21.816412+00:00"
   }
 ]
