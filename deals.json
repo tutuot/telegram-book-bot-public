@@ -492,7 +492,7 @@
     "ebook_original_price": "R$ 69,90",
     "ebook_discount_percent": "78%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B07XTNKQKF?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-11T18:58:21.816318+00:00"
   },
   {
@@ -508,7 +508,7 @@
     "ebook_original_price": "R$ 549,00",
     "ebook_discount_percent": "64%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-11T18:58:21.816412+00:00"
   }
 ]
