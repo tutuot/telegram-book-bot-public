@@ -300,7 +300,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-18T04:57:51.570953+00:00"
   },
   {
@@ -316,7 +316,55 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-18T04:57:51.571023+00:00"
+  },
+  {
+    "asin": "8516123456",
+    "title": "Gramática Fundamental 5",
+    "print_price": "R$ 80,98",
+    "print_original_price": "R$ 270,00",
+    "print_discount_percent": "70%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8516123456?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8516123456.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-18T19:42:41.710480+00:00"
+  },
+  {
+    "asin": "8516104826",
+    "title": "Dicionário Houaiss Ilustrado",
+    "print_price": "R$ 51,93",
+    "print_original_price": "R$ 164,00",
+    "print_discount_percent": "68%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8516104826?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8516104826.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-18T19:42:41.710553+00:00"
+  },
+  {
+    "asin": "6585168313",
+    "title": "Biblioteca Nietzsche - Box com 4 Livros",
+    "print_price": "R$ 43,74",
+    "print_original_price": "R$ 119,00",
+    "print_discount_percent": "63%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6585168313?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6585168313.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-18T19:42:41.710605+00:00"
   }
 ]
