@@ -1,21 +1,5 @@
 [
   {
-    "asin": "8543302978",
-    "title": "Bíblia de Estudo Desafios de Todo Homem NVT, Letra Regular, ...",
-    "print_price": "R$ 97,36",
-    "print_original_price": "R$ 299,90",
-    "print_discount_percent": "67%",
-    "print_affiliate_url": "https://www.amazon.com.br/dp/8543302978?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8543302978.jpg",
-    "ebook_asin": null,
-    "ebook_price": null,
-    "ebook_original_price": null,
-    "ebook_discount_percent": null,
-    "ebook_affiliate_url": null,
-    "posted": true,
-    "scraped_at": "2026-11-14T03:53:05.298137+00:00"
-  },
-  {
     "asin": "6555000376",
     "title": "O monstro das cores",
     "print_price": "R$ 60,53",
@@ -268,7 +252,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-17T20:10:42.326720+00:00"
   },
   {
@@ -284,7 +268,7 @@
     "ebook_original_price": "R$ 99,50",
     "ebook_discount_percent": "63%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B097YV5ZL7?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-17T20:10:42.326788+00:00"
   },
   {
@@ -300,7 +284,39 @@
     "ebook_original_price": "R$ 34,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08JSBYPQL?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-17T20:10:42.326814+00:00"
+  },
+  {
+    "asin": "8526022253",
+    "title": "O Povo Brasileiro: A Formação e o Sentido do Brasil",
+    "print_price": "R$ 40,61",
+    "print_original_price": "R$ 109,00",
+    "print_discount_percent": "62%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8526022253?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8526022253.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-18T04:57:51.570953+00:00"
+  },
+  {
+    "asin": "6561263022",
+    "title": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
+    "print_price": "R$ 18,75",
+    "print_original_price": "R$ 49,90",
+    "print_discount_percent": "62%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6561263022?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6561263022.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-18T04:57:51.571023+00:00"
   }
 ]
