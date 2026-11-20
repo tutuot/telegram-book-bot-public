@@ -524,7 +524,23 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-19T19:42:56.810966+00:00"
+  },
+  {
+    "asin": "6561262131",
+    "title": "Coleção Primeira Biblioteca Volume 01 - Box com 10 Livrinhos",
+    "print_price": "R$ 32,16",
+    "print_original_price": "R$ 99,90",
+    "print_discount_percent": "67%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6561262131?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6561262131.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-20T04:42:00.370261+00:00"
   }
 ]
