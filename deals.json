@@ -364,7 +364,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-25T05:55:43.956597+00:00"
   },
   {
@@ -380,7 +380,7 @@
     "ebook_original_price": "R$ 299,90",
     "ebook_discount_percent": "66%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GXC8FJSG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-25T05:55:43.956692+00:00"
   },
   {
@@ -396,7 +396,55 @@
     "ebook_original_price": "R$ 37,90",
     "ebook_discount_percent": "60%",
     "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GZ7535SW?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-25T05:55:43.956746+00:00"
+  },
+  {
+    "asin": "8516123456",
+    "title": "Gramática Fundamental 5",
+    "print_price": "R$ 80,98",
+    "print_original_price": "R$ 270,00",
+    "print_discount_percent": "70%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8516123456?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8516123456.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-25T20:47:53.611688+00:00"
+  },
+  {
+    "asin": "6584956393",
+    "title": "Confissões de Santo Agostinho - Edição de Luxo Almofadada",
+    "print_price": "R$ 27,72",
+    "print_original_price": "R$ 89,90",
+    "print_discount_percent": "69%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6584956393?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6584956393.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-25T20:47:53.611758+00:00"
+  },
+  {
+    "asin": "8516112977",
+    "title": "Buriti Plus - Geografia - 3º ano",
+    "print_price": "R$ 124,40",
+    "print_original_price": "R$ 326,00",
+    "print_discount_percent": "61%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8516112977?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8516112977.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-25T20:47:53.611790+00:00"
   }
 ]
