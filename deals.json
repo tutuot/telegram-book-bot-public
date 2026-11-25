@@ -284,7 +284,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-24T21:39:50.562580+00:00"
   },
   {
@@ -300,7 +300,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-24T21:39:50.562633+00:00"
   },
   {
@@ -316,7 +316,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-24T21:39:50.562665+00:00"
   },
   {
@@ -332,7 +332,7 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-24T21:39:50.562681+00:00"
   },
   {
@@ -348,7 +348,55 @@
     "ebook_original_price": null,
     "ebook_discount_percent": null,
     "ebook_affiliate_url": null,
-    "posted": false,
+    "posted": true,
     "scraped_at": "2026-11-24T21:39:50.562694+00:00"
+  },
+  {
+    "asin": "6583970163",
+    "title": "A Metamorfose - Franz Kafka | Luxo Capa Dura",
+    "print_price": "R$ 19,00",
+    "print_original_price": "R$ 59,90",
+    "print_discount_percent": "68%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/6583970163?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/6583970163.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-25T05:55:43.956597+00:00"
+  },
+  {
+    "asin": "B0GXC8FJSG",
+    "title": "Box - Amores Improváveis (Nova edição)",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0GXC8FJSG.jpg",
+    "ebook_asin": "B0GXC8FJSG",
+    "ebook_price": "R$ 99,00",
+    "ebook_original_price": "R$ 299,90",
+    "ebook_discount_percent": "66%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GXC8FJSG?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-25T05:55:43.956692+00:00"
+  },
+  {
+    "asin": "B0GZ7535SW",
+    "title": "Secret Clinical Desodorante Antitranspirante em Gel Lavanda ...",
+    "print_price": null,
+    "print_original_price": null,
+    "print_discount_percent": null,
+    "print_affiliate_url": null,
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0GZ7535SW.jpg",
+    "ebook_asin": "B0GZ7535SW",
+    "ebook_price": "R$ 14,99",
+    "ebook_original_price": "R$ 37,90",
+    "ebook_discount_percent": "60%",
+    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0GZ7535SW?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "posted": false,
+    "scraped_at": "2026-11-25T05:55:43.956746+00:00"
   }
 ]
