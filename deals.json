@@ -1,53 +1,5 @@
 [
   {
-    "asin": "B08BW9D4SP",
-    "title": "O avesso da pele – Vencedor Jabuti 2021",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B08BW9D4SP.jpg",
-    "ebook_asin": "B08BW9D4SP",
-    "ebook_price": "R$ 17,45",
-    "ebook_original_price": "R$ 79,90",
-    "ebook_discount_percent": "78%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B08BW9D4SP?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-11-22T18:48:10.961665+00:00"
-  },
-  {
-    "asin": "B09V1SM8QB",
-    "title": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B09V1SM8QB.jpg",
-    "ebook_asin": "B09V1SM8QB",
-    "ebook_price": "R$ 105,89",
-    "ebook_original_price": "R$ 359,90",
-    "ebook_discount_percent": "70%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B09V1SM8QB?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-11-22T18:48:10.961753+00:00"
-  },
-  {
-    "asin": "B0CD4SCM33",
-    "title": "Tramontina Panela de Pressão Vancouver Effect em Alumínio co...",
-    "print_price": null,
-    "print_original_price": null,
-    "print_discount_percent": null,
-    "print_affiliate_url": null,
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0CD4SCM33.jpg",
-    "ebook_asin": "B0CD4SCM33",
-    "ebook_price": "R$ 161,90",
-    "ebook_original_price": "R$ 409,20",
-    "ebook_discount_percent": "60%",
-    "ebook_affiliate_url": "https://www.amazon.com.br/dp/B0CD4SCM33?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
-    "posted": true,
-    "scraped_at": "2026-11-22T18:48:10.961787+00:00"
-  },
-  {
     "asin": "B086Q17HF4",
     "title": "Mitologia dos orixás",
     "print_price": null,
@@ -446,5 +398,21 @@
     "ebook_affiliate_url": null,
     "posted": true,
     "scraped_at": "2026-11-25T20:47:53.611790+00:00"
+  },
+  {
+    "asin": "8552734311",
+    "title": "A Droga da Obediência – Nova Edição",
+    "print_price": "R$ 38,75",
+    "print_original_price": "R$ 120,00",
+    "print_discount_percent": "67%",
+    "print_affiliate_url": "https://www.amazon.com.br/dp/8552734311?tag=oqueler09-20&linkCode=as2&camp=1789&creative=9325",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/8552734311.jpg",
+    "ebook_asin": null,
+    "ebook_price": null,
+    "ebook_original_price": null,
+    "ebook_discount_percent": null,
+    "ebook_affiliate_url": null,
+    "posted": false,
+    "scraped_at": "2026-11-27T05:41:45.541799+00:00"
   }
 ]
